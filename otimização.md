@@ -8,3 +8,8 @@
   - Aluno: [Douglas de Souza Abreu](https://github.com/dougabreu).
   - Orientadora: [Ana Carolina Alves Abreu](https://github.com/acarolina1612).
   - Co-orientadores: [Felipe Borges Coelho](https://github.com/FelipeBorgesC) e [Allan Gurwicz](https://github.com/agurwicz).
+
+- [Seletor de Arranjo Submarino por Algoritmo Evolutivo](https://github.com/secretaria-ICA/Seletor_de_Arranjo_Submarino_por_Algoritmo_Evolutivo):
+  - Aluno: [Paulo Vinicius Soares Ramalho Domingos](https://github.com/paulovsrd).
+  - Orientadora: [Ana Carolina Alves Abreu](https://github.com/acarolina1612).
+  
