@@ -11,3 +11,8 @@
 - [Predição de Custos de Perfuração de Poços via Métodos de Aprendizado Supervisionado](https://github.com/secretaria-ICA/Predicao_de_Custos_de_Perfuracao_de_Pocos_via_Metodos_de_Aprendizado_Supervisionado):
   - Aluna: [Manoela Teixeira Lopes](https://github.com/ManoelaLopes).
   - Orientadora: [Manoela Kohler](https://github.com/manoelakohler).
+
+- [Identificação de Bloqueio por Hidrato em Linhas de Serviço de Poços Produtores de Óleo](https://github.com/secretaria-ICA/Identificacao_de_Bloqueio_por_Hidrato_em_Linhas_de_Servico_de_Pocos_Produtores_de_Oleo):
+  - Aluno: [Fabiano Garcia Drumond](https://github.com/fgdrumond).
+  - Orientadora: [Manoela Kohler](https://github.com/manoelakohler).
+  
