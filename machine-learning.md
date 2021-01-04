@@ -16,3 +16,7 @@
   - Aluno: [Fabiano Garcia Drumond](https://github.com/fgdrumond).
   - Orientadora: [Manoela Kohler](https://github.com/manoelakohler).
   
+- [Uso de Redes Neurais para Reproduzir Resultados de Simulação de Vazão de Produção de Óleo](https://github.com/secretaria-ICA/Uso_de_Redes_Neurais_para_Reproduzir_Resultados_de_Simulacao_de_Vazao_de_Producao_de_Oleo):
+  - Aluno: [Rogério Leite Alves Pinto](https://codigo-externo.petrobras.com.br/CXMV).
+  - Orientadora: [Manoela Kohler](https://github.com/manoelakohler).
+  
