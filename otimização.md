@@ -17,3 +17,7 @@
   - Aluno: [Rômulo Parma Gonçalves](https://github.com/romuloparma).
   - Orientadora: [Ana Carolina Alves Abreu](https://github.com/acarolina1612).
   
+- [Otimização de Custos e Emissões de CO2 nas Operações de Pull Out de Risers de Unidades de Produção Offshore](https://github.com/secretaria-ICA/Otimizacao_de_Custos_e_Emissoes_de_CO2_nas_Operacoes_de_Pull_Out_de_Risers_de_Unidades_de_Producao):
+  - Aluna: [Milene França](https://github.com/milfranca).
+  - Orientadora: [Ana Carolina Alves Abreu](https://github.com/acarolina1612).
+  
