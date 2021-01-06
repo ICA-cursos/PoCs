@@ -13,3 +13,7 @@
   - Aluno: [Paulo Vinicius Soares Ramalho Domingos](https://github.com/paulovsrd).
   - Orientadora: [Ana Carolina Alves Abreu](https://github.com/acarolina1612).
   
+- [Uso de Algoritmo Genético para Otimização de Rota de Embarcação em Atendimento a Serviços Offshore da Indústria de Óleo e Gás](https://github.com/secretaria-ICA/Uso_de_Algoritmo_Genetico_para_Otimizacao_de_Rota_de_Embarcacao_em_Atendimento_a_Servicos_Offshore):
+  - Aluno: [Rômulo Parma Gonçalves](https://github.com/romuloparma).
+  - Orientadora: [Ana Carolina Alves Abreu](https://github.com/acarolina1612).
+  
