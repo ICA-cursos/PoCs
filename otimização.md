@@ -24,3 +24,7 @@
 - [Otimização da Abertura de Poços Produtores de Petróleo Utilizando Algorítmos Genéticos](https://github.com/secretaria-ICA/Otimizacao_da_Abertura_de_Pocos_Produtores_de_Petroleo_Utilizando_Algoritmos_Geneticos):
   - Aluno: [Luiz Fernando Giovanelli](https://github.com/Lfgiovan).
   - Orientadora: [Ana Carolina Alves Abreu](https://github.com/acarolina1612).
+
+- [Otimização de Trajetórias com Uso de A* e Algoritmos Genéticos](https://github.com/secretaria-ICA/Otimizacao_de_Trajetorias_com_Uso_de_A_e_Algoritmos_Geneticos):
+  - Aluno: [Maurício Galassi](https://github.com/MauricioGalassi).
+  - Orientadora: [Ana Carolina Alves Abreu](https://github.com/acarolina1612).
