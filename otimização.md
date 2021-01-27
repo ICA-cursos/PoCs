@@ -28,3 +28,9 @@
 - [Otimização de Trajetórias com Uso de A* e Algoritmos Genéticos](https://github.com/secretaria-ICA/Otimizacao_de_Trajetorias_com_Uso_de_A_e_Algoritmos_Geneticos):
   - Aluno: [Maurício Galassi](https://github.com/MauricioGalassi).
   - Orientadora: [Ana Carolina Alves Abreu](https://github.com/acarolina1612).
+  
+- [Aplicação de Algoritmo Genético para o Problema de Planejamento da Pintura de Plataforma de Óleo e Gás](https://github.com/secretaria-ICA/Aplicacao_de_Algoritmo_Genetico_para_o_Problema_de_Planejamento_da_Pintura_de_Plataforma):
+  - Aluno: [André Gustavo Teixeira de Carvalho Pereira](https://github.com/agtcp).
+  - Orientadora: [Ana Carolina Alves Abreu](https://github.com/acarolina1612).
+  - Co-orientador: [Felipe Borges Coelho](https://github.com/FelipeBorgesC).
+  
