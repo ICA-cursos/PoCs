@@ -7,3 +7,8 @@
 - [Previsão Automática com Redes Neurais da Probabilidade por Bairros de Serem Solicitados Transportes por Aplicativos](https://github.com/secretaria-ICA/Previsao_da_Probabilidade_por_Bairros_de_Serem_Solicitados_Transportes_por_Aplicativos):
   - Aluno: [Fernando Mauro Buleo Barbosa](https://github.com/buleo).
   - Orientadores: [Manoela Kohler](https://github.com/manoelakohler) e [Leonardo Forero Mendoza](https://github.com/leofome8).
+
+- [Reconhecimento Facial com Anti-spoofing](https://github.com/secretaria-ICA/Reconhecimento_Facial_com_Anti-spoofing):
+  - Aluno: [Gabriel Taranto Pereira Magrina Ferreres](https://github.com/gabrieltp).
+  - Orientador: [Felipe Borges](https://github.com/FelipeBorgesC).
+  - Co-orientadora: [Ana Carolina Abreu](https://github.com/acarolina1612).
