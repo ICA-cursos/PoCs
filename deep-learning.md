@@ -12,3 +12,7 @@
   - Aluno: [Gabriel Taranto Pereira Magrina Ferreres](https://github.com/gabrieltp).
   - Orientador: [Felipe Borges](https://github.com/FelipeBorgesC).
   - Co-orientadora: [Ana Carolina Abreu](https://github.com/acarolina1612).
+
+- [Previsão de Série Temporal - AAPL](https://github.com/secretaria-ICA/Previsao_de_Serie_Temporal-AAPL):
+  - Aluna: [Ludmila Muller da Silva](https://github.com/lm0007).
+  - Orientadora: [Manoela Kohler](https://github.com/manoelakohler).
