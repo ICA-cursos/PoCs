@@ -23,3 +23,7 @@
 - [Detecção de Anomalias nos Dados de Emissões de Gases de Efeito Estufa de uma UEP (Unidade Estacionária de Produção de Óleo e Gás)](https://github.com/secretaria-ICA/Deteccao_de_Anomalias_nos_Dados_de_Emissoes_de_Gases_de_Efeito_Estufa_de_uma_UEP):
   - Aluno: [Cláudio Orlando Bridi](https://github.com/cobridi).
   - Orientador: [Leonardo Forero Mendoza](https://github.com/leofome8).
+
+- [Aprendizado em Mundo Digital com Redes Neurais e Algoritmo Genético](https://github.com/secretaria-ICA/Aprendizado_em_Mundo_Digital_com_Redes_Neurais_e_Algoritmo_Genetico):
+  - Aluno: [Adriano Lyrio](https://github.com/adrianolyrio).
+  - Orientadora: [Manoela Kohler](https://github.com/manoelakohler).
