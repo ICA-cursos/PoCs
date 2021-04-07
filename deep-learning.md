@@ -16,3 +16,7 @@
 - [Previsão de Série Temporal - AAPL](https://github.com/secretaria-ICA/Previsao_de_Serie_Temporal-AAPL):
   - Aluna: [Ludmila Muller da Silva](https://github.com/lm0007).
   - Orientadora: [Manoela Kohler](https://github.com/manoelakohler).
+
+- [Detecção de Anomalias nos Dados de Emissões de Gases de Efeito Estufa de uma UEP (Unidade Estacionária de Produção de Óleo e Gás)](https://github.com/secretaria-ICA/Deteccao_de_Anomalias_nos_Dados_de_Emissoes_de_Gases_de_Efeito_Estufa_de_uma_UEP):
+  - Aluno: [Cláudio Orlando Bridi](https://github.com/cobridi).
+  - Orientador: [Leonardo Forero Mendoza](https://github.com/leofome8).
