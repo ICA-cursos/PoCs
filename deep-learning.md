@@ -16,3 +16,7 @@
 - [Previsão de Série Temporal - AAPL](https://github.com/secretaria-ICA/Previsao_de_Serie_Temporal-AAPL):
   - Aluna: [Ludmila Muller da Silva](https://github.com/lm0007).
   - Orientadora: [Manoela Kohler](https://github.com/manoelakohler).
+
+- [Projeção de Série Temporal da Emissão de Gases de Efeito Estufa com LSTM](https://github.com/secretaria-ICA/Projecao_de_Serie_Temporal_da_Emissao_de_Gases_de_Efeito_Estufa_com_LSTM):
+  - Aluno: [Rodrigo Chaves Cardoso de Oliveira](https://github.com/rodrigochaves73).
+  - Orientadora: [Manoela Kohler](https://github.com/manoelakohler).
