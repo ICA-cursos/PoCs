@@ -20,3 +20,7 @@
 - [Projeção de Série Temporal da Emissão de Gases de Efeito Estufa com LSTM](https://github.com/secretaria-ICA/Projecao_de_Serie_Temporal_da_Emissao_de_Gases_de_Efeito_Estufa_com_LSTM):
   - Aluno: [Rodrigo Chaves Cardoso de Oliveira](https://github.com/rodrigochaves73).
   - Orientadora: [Manoela Kohler](https://github.com/manoelakohler).
+
+- [Autoencoders para Detecção de Esquemas de Barreiras](https://github.com/secretaria-ICA/Autoencoders_para_Deteccao_de_Esquemas_de_Barreiras):
+  - Aluno: [Rodrigo Araújo](https://github.com/rodrigoaraujo01).
+  - Orientador: [Leonardo Forero Mendonza](https://github.com/leofome8).
