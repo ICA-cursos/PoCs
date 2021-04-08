@@ -27,3 +27,7 @@
 - [Aprendizado em Mundo Digital com Redes Neurais e Algoritmo Genético](https://github.com/secretaria-ICA/Aprendizado_em_Mundo_Digital_com_Redes_Neurais_e_Algoritmo_Genetico):
   - Aluno: [Adriano Lyrio](https://github.com/adrianolyrio).
   - Orientadora: [Manoela Kohler](https://github.com/manoelakohler).
+
+- [Regras de Associação em Alarmes de Monitoração de TIC Utilizando o Algoritmo Efficient Apriori](https://github.com/secretaria-ICA/Regras_de_Associacao_em_Alarmes_de_Monitoracao_de_TIC_Utilizando_o_Algoritmo_Efficient_Apriori):
+  - Aluno: [Igor Cruz](https://github.com/igorcruz33).
+  - Orientadora: [Manoela Kohler](https://github.com/manoelakohler).
