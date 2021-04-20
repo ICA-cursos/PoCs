@@ -7,3 +7,5 @@ As provas de conceito estão categorizadas de acordo com os seguintes temas:
 - [*Deep Learning*](deep-learning.md)
 - [*Business Intelligence*](business-intelligence.md)
 - [Otimização](otimização.md)
+
+**Alunos:** Os *templates* para criação de `README` encontram-se no diretório [*templates*](templates).
