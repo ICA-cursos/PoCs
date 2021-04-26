@@ -35,3 +35,8 @@
 - [Regras de Associação em Alarmes de Monitoração de TIC Utilizando o Algoritmo FP-Growth](https://github.com/secretaria-ICA/Regras_de_Associacao_em_Alarmes_de_Monitoracao_de_TIC_Utilizando_o_Algoritmo_FP-Growth):
   - Aluno: [Tiago Santos](https://github.com/TiagoSantosVidal).
   - Orientadora: [Manoela Kohler](https://github.com/manoelakohler).
+
+- [Extração, Exploração e Análise dos Dados de Pedidos de Patentes Publicados nas Revistas da Propriedade Industrial](https://github.com/secretaria-ICA/Extracao_Exploracao_e_Analise_dos_Dados_de_Pedidos_de_Patentes):
+  - Aluno: [Ronald Alzamende Martins](https://github.com/ronaldlm).
+  - Orientadora: [Manoela Kohler](https://github.com/manoelakohler).
+  - Co-orientadores: [Felipe Borges Coelho](https://github.com/FelipeBorgesC) e [Guilherme Strachan](https://github.com/strachan).
