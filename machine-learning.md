@@ -40,3 +40,7 @@
   - Aluno: [Ronald Alzamende Martins](https://github.com/ronaldlm).
   - Orientadora: [Manoela Kohler](https://github.com/manoelakohler).
   - Co-orientadores: [Felipe Borges Coelho](https://github.com/FelipeBorgesC) e [Guilherme Strachan](https://github.com/strachan).
+
+- [Utilização de Métodos Estatísticos e Ferramentas de Machine Learning na Apuração da Sensibilidade dos Patrimônios Líquidos dos Fundos de Investimentos aos Fatores de Risco](https://github.com/secretaria-ICA/Apuracao_da_Sensibilidade_dos_Patrimonios_Liquidos_dos_Fundos_de_Investimentos_aos_Fatores_de_Risco):
+  - Aluno: [Jorge Alexandre Casara](https://github.com/sandwalker66).
+  - Orientadores: [Manoela Kohler](https://github.com/manoelakohler) e [Leonardo Forero Mendoza](https://github.com/leofome8).
