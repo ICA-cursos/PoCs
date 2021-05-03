@@ -34,3 +34,7 @@
   - Orientadora: [Ana Carolina Alves Abreu](https://github.com/acarolina1612).
   - Co-orientador: [Felipe Borges Coelho](https://github.com/FelipeBorgesC).
   
+- [Otimização da Fila de Chamados para Minimizar Glosa Contratual](https://github.com/secretaria-ICA/Otimizacao_da_Fila_de_Chamados_para_Minimizar_Glosa_Contratual):
+  - Aluno: [Gabriel Nogueira Ferreira](https://github.com/gnf1).
+  - Orientadora: [Ana Carolina Alves Abreu](https://github.com/acarolina1612).
+  - Co-orientador: [Allan Gurwicz](https://github.com/agurwicz).
