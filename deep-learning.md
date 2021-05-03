@@ -24,3 +24,7 @@
 - [Autoencoders para Detecção de Esquemas de Barreiras](https://github.com/secretaria-ICA/Autoencoders_para_Deteccao_de_Esquemas_de_Barreiras):
   - Aluno: [Rodrigo Araújo](https://github.com/rodrigoaraujo01).
   - Orientador: [Leonardo Forero Mendonza](https://github.com/leofome8).
+
+- [Previsão do Preço de Energia](https://github.com/secretaria-ICA/Previsao_do_Preco_de_Energia):
+  - Aluno: [Matheus Rangel Cardoso](https://github.com/MatheusRangelCardoso).
+  - Orientadores: [Leonardo Forero Mendoza](https://github.com/leofome8) e [Manoela Kohler](https://github.com/manoelakohler).
