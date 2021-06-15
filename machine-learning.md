@@ -44,3 +44,7 @@
 - [Utilização de Métodos Estatísticos e Ferramentas de Machine Learning na Apuração da Sensibilidade dos Patrimônios Líquidos dos Fundos de Investimentos aos Fatores de Risco](https://github.com/secretaria-ICA/Apuracao_da_Sensibilidade_dos_Patrimonios_Liquidos_dos_Fundos_de_Investimentos_aos_Fatores_de_Risco):
   - Aluno: [Jorge Alexandre Casara](https://github.com/sandwalker66).
   - Orientadores: [Manoela Kohler](https://github.com/manoelakohler) e [Leonardo Forero Mendoza](https://github.com/leofome8).
+
+- [Agrupamento de Temas no Levantamento Bibliográfico sobre Mineração de Processos](https://github.com/secretaria-ICA/Agrupamento_de_Temas_no_Levantamento_Bibliografico_sobre_Mineracao_de_Processos):
+  - Aluna: [Mirley Bitencourt](https://github.com/mirleybitencourt).
+  - Orientadores: [Manoela Kohler](https://github.com/manoelakohler) e [Felipe Borges](https://github.com/FelipeBorgesC).
