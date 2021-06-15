@@ -52,3 +52,7 @@
 - [Saúde Mental - Análise de Dados](https://github.com/secretaria-ICA/Saude_Mental_Analise_de_Dados):
   - Aluna: [Silvana de Jesus Silva](https://github.com/Silvana-js).
   - Orientadora: [Manoela Kohler](https://github.com/manoelakohler).
+
+- [Bem Vindo ao Apocalipse Brasileiro](https://github.com/secretaria-ICA/Bem_Vindo_ao_Apocalipse_Brasileiro):
+  - Aluno: [Rodrigo Link Federizzi](https://github.com/rodrigolink).
+  - Orientadores: [Manoela Kohler](https://github.com/manoelakohler) e [Felipe Borges](https://github.com/FelipeBorgesC).
