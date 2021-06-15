@@ -48,3 +48,7 @@
 - [Agrupamento de Temas no Levantamento Bibliográfico sobre Mineração de Processos](https://github.com/secretaria-ICA/Agrupamento_de_Temas_no_Levantamento_Bibliografico_sobre_Mineracao_de_Processos):
   - Aluna: [Mirley Bitencourt](https://github.com/mirleybitencourt).
   - Orientadores: [Manoela Kohler](https://github.com/manoelakohler) e [Felipe Borges](https://github.com/FelipeBorgesC).
+
+- [Saúde Mental - Análise de Dados](https://github.com/secretaria-ICA/Saude_Mental_Analise_de_Dados):
+  - Aluna: [Silvana de Jesus Silva](https://github.com/Silvana-js).
+  - Orientadora: [Manoela Kohler](https://github.com/manoelakohler).
