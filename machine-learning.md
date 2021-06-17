@@ -56,3 +56,8 @@
 - [Bem Vindo ao Apocalipse Brasileiro](https://github.com/secretaria-ICA/Bem_Vindo_ao_Apocalipse_Brasileiro):
   - Aluno: [Rodrigo Link Federizzi](https://github.com/rodrigolink).
   - Orientadores: [Manoela Kohler](https://github.com/manoelakohler) e [Felipe Borges](https://github.com/FelipeBorgesC).
+
+- [Aplicação de Data Mining para Aumento de Investimentos em Planos de Previdência Complementar](https://github.com/secretaria-ICA/Aplicacao_de_Data_Mining_para_Aumento_de_Investimentos_em_Planos_de_Previdencia_Complementar):
+  - Aluno: [Ricardo Lemos Campos](https://github.com/rlcampos).
+  - Orientadora: [Manoela Kohler](https://github.com/manoelakohler).
+  - Co-orientador: [Felipe Borges](https://github.com/FelipeBorgesC).
