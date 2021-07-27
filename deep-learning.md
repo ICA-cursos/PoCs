@@ -32,3 +32,7 @@
 - [Geração de Imagens Realistas e Controladas Utilizando Generative Adversarial Network e Variational Autoencoder](https://github.com/secretaria-ICA/Geracao_de_Imagens_Realistas_e_Controladas):
   - Aluno: [Daniel F. M. Möller](https://github.com/danmoller).
   - Orientadora: [Manoela Kohler](https://github.com/manoelakohler).
+
+- [Contagem de Pessoas em Imagens de Drones Utilizando Deep Learning](https://github.com/secretaria-ICA/Contagem_de_Pessoas_em_Imagens_de_Drones_Utilizando_Deep_Learning):
+  - Aluno: [Mateus Furlin Bampi](https://github.com/MateusBampi).
+  - Orientadora: [Manoela Kohler](https://github.com/manoelakohler).
