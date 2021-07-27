@@ -61,3 +61,7 @@
   - Aluno: [Ricardo Lemos Campos](https://github.com/rlcampos).
   - Orientadora: [Manoela Kohler](https://github.com/manoelakohler).
   - Co-orientador: [Felipe Borges](https://github.com/FelipeBorgesC).
+
+- [Descoberta de padrões em bases de dados de engenharia para automatizar o preenchimento](https://github.com/Jacksonluan/TCCBIMASTERPUC/blob/main/README.md):
+  - Aluno: [Jackson Luan Queiroz](https://github.com/Jacksonluan).
+  - Orientadora: [Manoela Kohler](https://github.com/manoelakohler).
