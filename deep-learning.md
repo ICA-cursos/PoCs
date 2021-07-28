@@ -38,5 +38,9 @@
   - Orientadora: [Manoela Kohler](https://github.com/manoelakohler).
 
 - [Predição de Qualidade de Produtos da Indústria de Refino de Petróleo](https://github.com/secretaria-ICA/Predicao_de_Qualidade_de_Produtos_da_Industria_de_Refino_de_Petroleo):
-  - Aluno: [ André Seichi Ribeiro Kuramoto](https://github.com/andrekuramoto).
+  - Aluno: [André Seichi Ribeiro Kuramoto](https://github.com/andrekuramoto).
   - Orientadora: [Manoela Kohler](https://github.com/manoelakohler).
+
+- [Analisador de Logs de Sistemas Computacionais Utilizando Redes Neurais e Sentence Transformer](https://github.com/secretaria-ICA/Analisador_de_Logs_de_Sistemas_Computacionais_Utilizando_Redes_Neurais_e_Sentence_Transformer):
+  - Aluno: [Luís Fernando V Gomes](https://github.com/lfvgomes).
+  - Orientadora: [Felipe Borges](https://github.com/FelipeBorgesC) e [Manoela Kohler](https://github.com/manoelakohler).
