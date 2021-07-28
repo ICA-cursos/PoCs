@@ -19,3 +19,7 @@
 - [Selecionar ações e fundos de investimentos observando multiplus dados agregados e on-line_Dashboard de Investimentos](https://github.com/secretaria-ICA/Selecionar_Acoes_e_Fundos_de_Investimentos_Observando_Multiplos_Dados_Agregados):
   - Aluno: [Cristiano Ribeiro e Ribeiro](https://github.com/ribeirocristiano).
   - Orientador: [Anderson Nascimento](https://github.com/insightds).
+
+- [Criação e Análise de Modelo Word2Vector de Textos Bíblicos](https://github.com/secretaria-ICA/Criacao_e_Analise_de_Modelo_Word2Vector_de_Textos_Biblicos):
+  - Aluno: [Bruno Cordeiro Paes](https://github.com/brunocopa).
+  - Orientador: [Felipe Borges](https://github.com/FelipeBorgesC).
