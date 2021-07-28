@@ -36,3 +36,7 @@
 - [Contagem de Pessoas em Imagens de Drones Utilizando Deep Learning](https://github.com/secretaria-ICA/Contagem_de_Pessoas_em_Imagens_de_Drones_Utilizando_Deep_Learning):
   - Aluno: [Mateus Furlin Bampi](https://github.com/MateusBampi).
   - Orientadora: [Manoela Kohler](https://github.com/manoelakohler).
+
+- [Predição de Qualidade de Produtos da Indústria de Refino de Petróleo](https://github.com/secretaria-ICA/Predicao_de_Qualidade_de_Produtos_da_Industria_de_Refino_de_Petroleo):
+  - Aluno: [ André Seichi Ribeiro Kuramoto](https://github.com/andrekuramoto).
+  - Orientadora: [Manoela Kohler](https://github.com/manoelakohler).
