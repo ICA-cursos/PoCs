@@ -55,3 +55,7 @@
   - Aluno: [Alaor Barroso de Carvalho Neto](https://github.com/alaorneto).
   - Orientadora: [Manoela Kohler](https://github.com/manoelakohler).
  
+- [Subsea Inpainting](https://github.com/secretaria-ICA/Subsea_Inpainting):
+  - Aluno: [Bruno Santiago](https://github.com/brunomsantiago).
+  - Orientadores: [Leonardo Forero Mendoza](https://github.com/leofome8).
+ 
