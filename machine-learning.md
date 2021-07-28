@@ -61,3 +61,7 @@
   - Aluno: [Ricardo Lemos Campos](https://github.com/rlcampos).
   - Orientadora: [Manoela Kohler](https://github.com/manoelakohler).
   - Co-orientador: [Felipe Borges](https://github.com/FelipeBorgesC).
+
+- [Combate à Sonegação Fiscal: Um Modelo de Predição das Noteiras](https://github.com/secretaria-ICA/Combate_a_Sonegacao_Fiscal_Um_Modelo_de_Predicao_das_Noteiras):
+  - Aluno: [Adauto de Carvalho Guimarães](https://github.com/1970-rio).
+  - Orientadores: [Manoela Kohler](https://github.com/manoelakohler) e [Felipe Borges](https://github.com/FelipeBorgesC).
