@@ -65,3 +65,8 @@
 - [Combate à Sonegação Fiscal: Um Modelo de Predição das Noteiras](https://github.com/secretaria-ICA/Combate_a_Sonegacao_Fiscal_Um_Modelo_de_Predicao_das_Noteiras):
   - Aluno: [Adauto de Carvalho Guimarães](https://github.com/1970-rio).
   - Orientadores: [Manoela Kohler](https://github.com/manoelakohler) e [Felipe Borges](https://github.com/FelipeBorgesC).
+
+- [Descoberta de Padrões em Bases de Dados de Engenharia Para Automatizar o Preenchimento](https://github.com/secretaria-ICA/Descoberta_de_Padroes_em_Bases_de_Dados_de_Engenharia_para_Automatizar_o_Preenchimento):
+  - Aluno: [Jackson Luan Queiroz](https://github.com/Jacksonluan).
+  - Orientadores: [Manoela Kohler](https://github.com/manoelakohler).
+  
