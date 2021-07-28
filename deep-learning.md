@@ -43,4 +43,11 @@
 
 - [Analisador de Logs de Sistemas Computacionais Utilizando Redes Neurais e Sentence Transformer](https://github.com/secretaria-ICA/Analisador_de_Logs_de_Sistemas_Computacionais_Utilizando_Redes_Neurais_e_Sentence_Transformer):
   - Aluno: [Luís Fernando V Gomes](https://github.com/lfvgomes).
-  - Orientadora: [Felipe Borges](https://github.com/FelipeBorgesC) e [Manoela Kohler](https://github.com/manoelakohler).
+  - Orientadores: [Felipe Borges](https://github.com/FelipeBorgesC) e [Manoela Kohler](https://github.com/manoelakohler).
+
+- [Algoritmo Preditivo Para Geração de Recomendações de Operações com Opções na Bolsa de Valores Mobiliários](https://github.com/secretaria-ICA/Algoritmo_Preditivo_Para_Geracao_de_Recomendacoes_de_Operacoes_Com_Opcoes_na_Bolsa_de_Valores):
+  - Alunos: [Anderson da Silva Nascimento](https://github.com/diqeliba),
+            [Adriana Costa e Silva](https://github.com/Drica3d),
+            [Douglas Leandro Dias Brandão](https://github.com/dougbrandao).
+  - Orientadores: [Manoela Kohler](https://github.com/manoelakohler).
+  
