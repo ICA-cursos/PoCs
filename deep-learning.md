@@ -51,3 +51,7 @@
             [Douglas Leandro Dias Brandão](https://github.com/dougbrandao).
   - Orientadores: [Manoela Kohler](https://github.com/manoelakohler).
   
+- [Uma Análise da Utilização do Keras na Predição de Diagnósticos de Eletrocardiogramas Utilizando a Base PTB-XL](https://github.com/secretaria-ICA/Uma_Analise_da_Utilizacao_do_Keras_na_Predicao_de_Diagnosticos_de_Eletrocardiogramas):
+  - Aluno: [Alaor Barroso de Carvalho Neto](https://github.com/alaorneto).
+  - Orientadora: [Manoela Kohler](https://github.com/manoelakohler).
+ 
