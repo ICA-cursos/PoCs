@@ -11,3 +11,7 @@
 - [Business Intelligence for Lessons Learned During Oil Well Construction Process](https://github.com/secretaria-ICA/Business_Intelligence_for_Lessons_Learned_During_Oil_Well_Construction_Process):
   - Aluno: [Pedro Esteves Aranha](https://github.com/peaaranha).
   - Orientador: [Anderson Nascimento](https://github.com/insightds).
+
+- [Construção de Processo Automatizado de Extração, Transformação e Carga de Dados para Acompanhamento de Registros de Marcas no INPI](https://github.com/secretaria-ICA/Construcao_de_Processo_Automatizado_de_Extracao_Transformacao_e_Carga_de_Dados):
+  - Aluno: [Christian Testtzlaffe Alpoim](https://github.com/testtzlaffe).
+  - Orientador: [Anderson Nascimento](https://github.com/insightds).
