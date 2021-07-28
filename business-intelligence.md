@@ -15,3 +15,7 @@
 - [Construção de Processo Automatizado de Extração, Transformação e Carga de Dados para Acompanhamento de Registros de Marcas no INPI](https://github.com/secretaria-ICA/Construcao_de_Processo_Automatizado_de_Extracao_Transformacao_e_Carga_de_Dados):
   - Aluno: [Christian Testtzlaffe Alpoim](https://github.com/testtzlaffe).
   - Orientador: [Anderson Nascimento](https://github.com/insightds).
+
+- [Selecionar ações e fundos de investimentos observando multiplus dados agregados e on-line_Dashboard de Investimentos](https://github.com/secretaria-ICA/Selecionar_Acoes_e_Fundos_de_Investimentos_Observando_Multiplos_Dados_Agregados):
+  - Aluno: [Cristiano Ribeiro e Ribeiro](https://github.com/ribeirocristiano).
+  - Orientador: [Anderson Nascimento](https://github.com/insightds).
