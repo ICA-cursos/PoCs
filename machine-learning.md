@@ -70,3 +70,6 @@
   - Aluno: [Jackson Luan Queiroz](https://github.com/Jacksonluan).
   - Orientadores: [Manoela Kohler](https://github.com/manoelakohler).
   
+- [Uso de Redes Neurais Convolucionais para Detecção de Emissões Fugitivas a Partir de Imagens](https://github.com/secretaria-ICA/Uso_de_Redes_Neurais_Convolucionais_para_Deteccao_de_Emissoes_Fugitivas_a_Partir_de_Imagens):
+  - Aluno: [Luciana Neves Loureiro](https://github.com/lunevesloureiro).
+  - Orientadores: [Manoela Kohler](https://github.com/manoelakohler).
