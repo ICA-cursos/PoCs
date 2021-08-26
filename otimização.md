@@ -38,3 +38,11 @@
   - Aluno: [Gabriel Nogueira Ferreira](https://github.com/gnf1).
   - Orientadora: [Ana Carolina Alves Abreu](https://github.com/acarolina1612).
   - Co-orientador: [Allan Gurwicz](https://github.com/agurwicz).
+
+- [Otimização da Alocação dos Investimentos em Projetos de P&D(Pesquisa & Desenvolvimento) do CENPES, para Cumprir as Obrigações Legais Decorrentes da Produção de Petróleo.](https://github.com/secretaria-ICA/Otimizacao_da_Alocacao_dos_Investimentos_em_Projetos_de_P_e_D_do_CENPES-):
+  - Aluno: [Marcelo Faro Bittencourt](https://github.com/MFaro).
+  - Orientadora: [Felipe Borges Coelho](https://github.com/FelipeBorgesC).
+ 
+ - [Algoritmo Genético para o Problema da Mochila](https://github.com/secretaria-ICA/Algoritmo_Genetico_para_o_Problema_da_Mochila):
+  - Aluno: [Prof. Maicon Melo Alves, Dsc. (YDUQS - Wyden)](https://github.com/maiconmelo).
+  - Orientadora: [Evelyn Conceição](https://github.com/evysb).
