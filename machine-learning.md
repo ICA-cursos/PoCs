@@ -77,3 +77,8 @@
 - [Classificador geoquímico de granitos "Tipo I" e "Tipo S" utilizando modelos SVM](https://github.com/secretaria-ICA/Classificador_Geoquimico_de_Granitos_Tipo_I_e_Tipo_S_Utilizando_Modelos_SVM):
   - Aluno: [Guilherme Loriato Potratz](https://github.com/geoloriato).
   - Orientadores: [Manoela Kohler](https://github.com/manoelakohler).
+
+- [Utilização de Técnicas de Aprendizado não Supervisionado para Classificação de Unidade Mecânicas em Maciço Rochoso](https://github.com/secretaria-ICA/Utilizacao_de_Tecnicas_de_Aprendizado_nao_Supervisionado_para_Classificacao_de_Unidade_Mecanicas):
+  - Aluno: [Thiago da Cruz Falcão](https://github.com/thiago85falcao/).
+  - Orientador: [Leonardo Forero Mendoza](https://github.com/leofome8).
+
