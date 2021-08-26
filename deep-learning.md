@@ -59,3 +59,7 @@
   - Aluno: [Bruno Santiago](https://github.com/brunomsantiago).
   - Orientadores: [Leonardo Forero Mendoza](https://github.com/leofome8).
  
+- [Implementação de Técnicas de Processamento de Linguagem Natural em Normas Técnicas](https://github.com/secretaria-ICA/Implementacao_de_Tecnicas_de_Processamento_de_Linguagem_Natural_em_Normas_Tecnicas):
+  - Aluno: [José Eduardo Dias Junior](https://github.com/jedias/).
+  - Orientadores: [Leonardo Forero Mendoza](https://github.com/leofome8).
+
