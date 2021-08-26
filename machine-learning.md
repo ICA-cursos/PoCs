@@ -82,3 +82,7 @@
   - Aluno: [Thiago da Cruz Falcão](https://github.com/thiago85falcao/).
   - Orientador: [Leonardo Forero Mendoza](https://github.com/leofome8).
 
+- [Identificação de Ataques de Força Bruta em SSH Utilizando Análise de Anomalias em Fluxos de Rede (Netflow)](https://github.com/secretaria-ICA/Identificacao_de_Ataques_de_Forca_Bruta_em_SSH_Utilizando_Analise_de_Anomalias_em_Fluxos_de_Rede):
+  - Aluno: [Pedro Miguel Esposito](https://github.com/pmesposito).
+  - Orientador: [Leonardo Forero Mendoza](https://github.com/leofome8).
+
