@@ -23,3 +23,7 @@
 - [Criação e Análise de Modelo Word2Vector de Textos Bíblicos](https://github.com/secretaria-ICA/Criacao_e_Analise_de_Modelo_Word2Vector_de_Textos_Biblicos):
   - Aluno: [Bruno Cordeiro Paes](https://github.com/brunocopa).
   - Orientador: [Felipe Borges](https://github.com/FelipeBorgesC).
+
+- [Ranking de Filmes e Séries: Scraping e Visualização](https://github.com/secretaria-ICA/Ranking_de_Filmes_e_Series_Scraping_e_Visualizacao):
+  - Aluno: [Ana Paula Gomes de Azevedo](https://github.com/anap1br).
+  - Orientador: [Felipe Borges](https://github.com/FelipeBorgesC).
