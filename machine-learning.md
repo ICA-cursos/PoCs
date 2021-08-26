@@ -73,3 +73,7 @@
 - [Uso de Redes Neurais Convolucionais para Detecção de Emissões Fugitivas a Partir de Imagens](https://github.com/secretaria-ICA/Uso_de_Redes_Neurais_Convolucionais_para_Deteccao_de_Emissoes_Fugitivas_a_Partir_de_Imagens):
   - Aluno: [Luciana Neves Loureiro](https://github.com/lunevesloureiro).
   - Orientadores: [Manoela Kohler](https://github.com/manoelakohler).
+
+- [Classificador geoquímico de granitos "Tipo I" e "Tipo S" utilizando modelos SVM](https://github.com/secretaria-ICA/Classificador_Geoquimico_de_Granitos_Tipo_I_e_Tipo_S_Utilizando_Modelos_SVM):
+  - Aluno: [Guilherme Loriato Potratz](https://github.com/geoloriato).
+  - Orientadores: [Manoela Kohler](https://github.com/manoelakohler).
