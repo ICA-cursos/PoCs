@@ -75,3 +75,7 @@
   - Aluno: [Elaine Costa da Cunha](https://github.com/eccunha).
   - Orientadores: [Leonardo Forero Mendoza](https://github.com/leofome8).
 
+- [Aplicação de Perguntas e Respostas sobre os Padrões Operacionais da Companhia Utilizando BERT (Pre-Training of Deep Biredictional Transformers For Language Understanding)](https://github.com/secretaria-ICA/Aplicacao_de_Perguntas_e_Respostas_sobre_os_Padroes_Operacionais_da_Companhia_Utilizando_BERT):
+  - Aluno: [André Roberto Antunes Paes](https://github.com/arobertoap).
+  - Orientadores: [Leonardo Forero Mendoza](https://github.com/leofome8).
+
