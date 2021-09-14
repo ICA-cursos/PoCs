@@ -71,3 +71,7 @@
   - Aluno: [Flávio Oliveira Duarte](https://github.com/flaviooduarte).
   - Orientadores: [Leonardo Forero Mendoza](https://github.com/leofome8).
 
+- [Análise de Sentimento em Português](https://github.com/secretaria-ICA/Analise_de_Sentimento_em_Portugues):
+  - Aluno: [Elaine Costa da Cunha](https://github.com/eccunha).
+  - Orientadores: [Leonardo Forero Mendoza](https://github.com/leofome8).
+
