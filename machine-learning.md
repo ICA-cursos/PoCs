@@ -86,3 +86,8 @@
   - Aluno: [Pedro Miguel Esposito](https://github.com/pmesposito).
   - Orientador: [Leonardo Forero Mendoza](https://github.com/leofome8).
 
+- [Detecção de Anomalias em Dados do Processo de Estimativa de Reservas](https://github.com/secretaria-ICA/Deteccao_de_Anomalias_em_Dados_do_Processo_de_Estimativa_de_Reservas):
+  - Aluno: [Leonardo Cardoso Vicente](https://github.com/lcvicente).
+  - Orientador: [Leonardo Forero Mendoza](https://github.com/leofome8).
+
+
