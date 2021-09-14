@@ -67,4 +67,7 @@
   - Aluno: [Rodolfo Gustavo Stocker Seguel](https://github.com/rodolfostocker).
   - Orientadores: [Leonardo Forero Mendoza](https://github.com/leofome8) e [Manoela Kohler](https://github.com/manoelakohler).
 
+- [ChatBot - Automação de Envios de Relatórios de Acompanhamento e Gestão](https://github.com/secretaria-ICA/ChatBot_Automacao_de_Envios_de_Relatorios_de_Acompanhamento_e_Gestao):
+  - Aluno: [Flávio Oliveira Duarte](https://github.com/flaviooduarte).
+  - Orientadores: [Leonardo Forero Mendoza](https://github.com/leofome8).
 
