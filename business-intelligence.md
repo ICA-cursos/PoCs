@@ -27,3 +27,8 @@
 - [Ranking de Filmes e Séries: Scraping e Visualização](https://github.com/secretaria-ICA/Ranking_de_Filmes_e_Series_Scraping_e_Visualizacao):
   - Aluno: [Ana Paula Gomes de Azevedo](https://github.com/anap1br).
   - Orientador: [Felipe Borges](https://github.com/FelipeBorgesC).
+
+- [Projeto de Business Intelligence como Apoio à Gestão Empresarial: Um estudo de caso](https://github.com/secretaria-ICA/Projeto_de_Business_Intelligence_como_Apoio_a_Gestao_Empresarial):
+  - Aluno: [Juliana Barboza de Faria](https://github.com/jbfaria)
+  - Orientador: [Anderson Nascimento](https://github.com/insightds)
+
