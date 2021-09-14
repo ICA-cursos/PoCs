@@ -63,3 +63,8 @@
   - Aluno: [José Eduardo Dias Junior](https://github.com/jedias/).
   - Orientadores: [Leonardo Forero Mendoza](https://github.com/leofome8).
 
+- [Classificação do Tempo de Inatividade em Kpi´s de Manutenção na Industria da Mineração, com Base no Modelo de Uso do Tempo e Autoencoder.](https://github.com/secretaria-ICA/Classificacao_do_Tempo_de_Inatividade_em_Kpis_de_Manutencao_na_Industria_da_Mineracao):
+  - Aluno: [Rodolfo Gustavo Stocker Seguel](https://github.com/rodolfostocker).
+  - Orientadores: [Leonardo Forero Mendoza](https://github.com/leofome8) e [Manoela Kohler](https://github.com/manoelakohler).
+
+
