@@ -29,6 +29,22 @@
   - Orientador: [Felipe Borges](https://github.com/FelipeBorgesC).
 
 - [Projeto de Business Intelligence como Apoio à Gestão Empresarial: Um estudo de caso](https://github.com/secretaria-ICA/Projeto_de_Business_Intelligence_como_Apoio_a_Gestao_Empresarial):
-  - Aluno: [Juliana Barboza de Faria](https://github.com/jbfaria)
-  - Orientador: [Anderson Nascimento](https://github.com/insightds)
+  - Aluno: [Juliana Barboza de Faria](https://github.com/jbfaria).
+  - Orientador: [Anderson Nascimento](https://github.com/insightds).
+
+- [Data Warehouse e Visualização Gerencial para Análise de Processos Judiciais Passivos](https://github.com/secretaria-ICA/Data_Warehouse_e_Visualizacao_Gerencial_para_Analise_de_Processos_Judiciais_Passivos):
+  - Aluno: [Josué Ambrosio Leal](https://github.com/josuealeal).
+  - Orientador: [Anderson Nascimento](https://github.com/insightds).
+
+- [Analise de Similaridade de Banco de Perguntas por Metodos NLP](https://github.com/secretaria-ICA/Analise_de_Similaridade_de_Banco_de_Perguntas_por-Metodos_NLP):
+  - Aluno: [Mauro Jaimovich](https://github.com/jaimovi/).
+  - Orientador: [Felipe Borges](https://github.com/FelipeBorgesC).
+
+- [Robot para Testes Automatizados de Validacao de Login em Aplicacoes Web](https://github.com/secretaria-ICA/Robot_para_Testes_Automatizados_de_Validacao_de_Login_em_Aplicacoes_Web):
+  - Aluno: [Márcio Magalhãesh](https://github.com/marciolucm).
+  - Orientador: [Felipe Borges](https://github.com/FelipeBorgesC).
+
+- [Uso do Selenium para Exportação de Convenções Coletivas de Trabalho da Plataforma Mediador](https://github.com/secretaria-ICA/Uso_do_Selenium_para_Exportacao_de_Convencoes_Coletivas_de_Trabalho_da_Plataforma_Mediador):
+  - Aluno: [Manoela Demori Lacombe Penna da Rocha](https://github.com/manoelaBI).
+  - Orientador: [Felipe Borges](https://github.com/FelipeBorgesC).
 
