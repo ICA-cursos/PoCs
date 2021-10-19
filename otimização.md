@@ -46,3 +46,24 @@
  - [Algoritmo Genético para o Problema da Mochila](https://github.com/secretaria-ICA/Algoritmo_Genetico_para_o_Problema_da_Mochila):
   - Aluno: [Prof. Maicon Melo Alves, Dsc. (YDUQS - Wyden)](https://github.com/maiconmelo).
   - Orientadora: [Evelyn Conceição](https://github.com/evysb).
+
+- [Combinação de Técnicas Estatísticas e Modelagem de Planejamento para Escalar Time no Fantasy Game.](https://github.com/secretaria-ICA/Combinacao_de_Tecnicas_Estatisticas_e_Modelagem_de_Planejamento_para_Escalar_Time_no_Fantasy_Game):
+  - Aluno: [Ricardo Gravina Condé](https://github.com/Ricardo-Gravina) e [Francimário Alves de Lima](https://github.com/francimariolima).
+  - Orientadora: [Felipe Borges Coelho](https://github.com/FelipeBorgesC).
+
+- [Otimização de Proposta Multinível de Serviço](https://github.com/secretaria-ICA/Otimizacao_de_Proposta_Multinivel_de_Servico):
+  - Aluno: [Raphael Faria Richter](https://github.com/richterraphael).
+  - Orientadora: [Felipe Borges Coelho](https://github.com/FelipeBorgesC).
+
+- [Otimização do Processo de Produção e Distribuição de Vacinas](https://github.com/secretaria-ICA/Otimizacao_do_Processo_de_Producao_e_Distribuicao_de_Vacinas):
+  - Aluno: [Rodrigo da Mata Tini](https://github.com/rodrigotini).
+  - Orientadora: [Felipe Borges Coelho](https://github.com/FelipeBorgesC).
+
+- [Otimização para Dimensionamento de Equipe de TI](https://github.com/secretaria-ICA/Otimizacao_para_Dimensionamento_de_Equipe_de_TI):
+  - Aluno: [Walter da Costa Carvalho](https://github.com/walcostac).
+  - Orientadora: [Felipe Borges Coelho](https://github.com/FelipeBorgesC).
+
+- [Otimização de Custo de Transporte de Combustíveis em Python](https://github.com/secretaria-ICA/Otimizacao_de_Custo_de_Transporte_de_Combustiveis_em_Python):
+  - Aluno: [Givanildo Madeiro](https://github.com/givanildomadeiro).
+  - Orientadora: [Felipe Borges Coelho](https://github.com/FelipeBorgesC).
+
