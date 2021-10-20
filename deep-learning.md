@@ -79,3 +79,39 @@
   - Aluno: [André Roberto Antunes Paes](https://github.com/arobertoap).
   - Orientadores: [Leonardo Forero Mendoza](https://github.com/leofome8).
 
+- [MVP de Sistema de Recomendação para Artigos](https://github.com/secretaria-ICA/MVP_de_Sistema_de_Recomendacao_para_Artigos):
+  - Aluno: [Thiago Tadeu Dos Santos Gavioli](https://github.com/thiagogavioli).
+  - Orientadora: [Manoela Kohler](https://github.com/manoelakohler).
+
+- [Autoencoders para Detecção de Anomalias em Equipamentos e Processos](https://github.com/secretaria-ICA/Autoencoders_para_Deteccao_de_Anomalias_em_Equipamentos_e_Processos):
+  - Aluno: [Antonioni Barros Campos](https://github.com/antonionicampos).
+  - Orientadora: [Manoela Kohler](https://github.com/manoelakohler).
+
+- [Predição de Demandas de Estoque com o Uso de Recurrent Neural NetworkLSTM(Long Short Term Memory)](https://github.com/secretaria-ICA/Predicao_de_Demandas_de_Estoque_com_o_Uso_de_Recurrent_Neural_Network_LSTM):
+  - Aluno: [Maximiliano Augusto Rocha Júnior.](https://github.com/MaxRocha1976).
+  - Orientadores: [Leonardo Forero Mendoza](https://github.com/leofome8).
+
+- [ANÁLISE DE INVESTIMENTOS PARA CRIPTOMOEDAS (CRYPTO VALUATION) O PROJETO CARDANO ADA)](https://github.com/secretaria-ICA/ANALISE_DE_INVESTIMENTOS_PARA_CRIPTOMOEDAS_CRYPTO_VALUATION_O_PROJETO_CARDANO_ADA):
+  - Aluno: [Ivan Madeira de Oliveira](https://github.com/olivivan7).
+  - Orientadores: [Leonardo Forero Mendoza](https://github.com/leofome8).
+
+- [Sistema de Vigilância para Portarias](https://github.com/secretaria-ICA/Sistema_de_Vigilancia_para_Portarias):
+  - Aluno: [Paulo Jorge Ramalho de Almeida](https://github.com/paulojrapuc).
+  - Orientadora: [Manoela Kohler](https://github.com/manoelakohler).
+
+- [Impacto e Influência do ritmo musical K-pop na sociedade mundial: Um estudo de análise de sentimento através da rede social Twitter)](https://github.com/secretaria-ICA/Impacto_e_Influencia_do_Ritmo_Musical_K-pop_na_Sociedade_Mundial_Um_Estudo_de_Analise_de_Sentimentos):
+  - Aluno: [Mayta Soares Custodio](https://github.com/maytasc).
+  - Orientadores: [Leonardo Forero Mendoza](https://github.com/leofome8).
+
+- [Previsão de Preços de Commodities Agrícolas Através de Redes Neurais LSTM](https://github.com/secretaria-ICA/Previsao_de_Precos_de_Commodities_Agricolas_Atraves_de_Redes-Neurais_LSTM):
+  - Aluno: [Junior Rocha](https://github.com/czar-rocha).
+  - Orientadora: [Manoela Kohler](https://github.com/manoelakohler).
+
+- [Deteccao de Falha em Equipamentos Rotativos Atraves de Analise de Vibracao Utilizando Redes Neurais](https://github.com/secretaria-ICA/Deteccao_de_Falha_em_Equipamentos_Rotativos_Atraves_de_Analise_de_Vibracao_Utilizando_Redes_Neurais):
+  - Aluno: [Diogo Ventura Nomiya](https://github.com/diogovn).
+  - Orientadora: [Manoela Kohler](https://github.com/manoelakohler).
+
+- [Machine Learning e Redes Neurais LSTM para Previsão do Dólar](https://github.com/secretaria-ICA/Machine_Learning_e_Redes_Neurais_LSTM_para_Previsao_do_Dolar):
+  - Aluno: [André Bittencourt Pereira](https://github.com/AndreBittencourt84).
+  - Orientadora: [Manoela Kohler](https://github.com/manoelakohler).
+
