@@ -125,6 +125,8 @@
   - Orientador: [Amanda Lemette T. Brandão](https://github.com/amandalemette).
   - Orientador: [Júlia Potratz](https://github.com/jupotratz).
 
-
+- [Aprendizado de Maquina Aplicado ao Varejo](https://github.com/secretaria-ICA/Aprendizado_de_Maquina_Aplicado_ao_Varejo):
+  - Aluno: Marcos Tabuquine Marques.
+  - Orientador: [Felipe Borges](https://github.com/FelipeBorgesC).
 
 
