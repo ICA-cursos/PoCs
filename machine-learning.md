@@ -107,3 +107,24 @@
   - Aluno: [Glauco Pires Rabello](https://github.com/glaucopr).
   - Orientadores: [Felipe Borges](https://github.com/FelipeBorgesC).
 
+- [Previsibilidade das Temperaturas dos Mancais](https://github.com/secretaria-ICA/Previsibilidade_das_Temperaturas_dos_Mancais?organization=secretaria-ICA&organization=secretaria-ICA):
+  - Aluno: [Gustavo Brito](https://github.com/Gustavo-br-rj).
+  - Orientador: [Leonardo Forero Mendoza](https://github.com/leofome8).
+
+- [Previsão de Série Temporal de Reservas Provadas de Óleo e Gás](https://github.com/secretaria-ICA/Previsao_de_Serie_Temporal_de-Reservas_Provadas_de_Oleo_e_Gas?organization=secretaria-ICA&organization=secretaria-ICA):
+  - Aluno: [Robson Silva](https://github.com/robrss).
+  - Orientador: [Leonardo Forero Mendoza](https://github.com/leofome8).
+
+- [Análise de Performance Contratual como Apoio ao Processo Decisório em Empresa do Setor de Óleo & Gás](https://github.com/secretaria-ICA/Analise_de_Performance_Contratual_como_Apoio_ao_Processo_Decisorio_em_Empresa_do_Setor_de_Oleo_e_Gas?organization=secretaria-ICA&organization=secretaria-ICA):
+  - Aluno: [Renan Barros](https://github.com/RenanBarros001).
+  - Aluno: [Miriane Barros](https://github.com/RenanBarros001).
+  - Orientador: [Leonardo Forero Mendoza](https://github.com/leofome8).
+
+- [Aplicação_de_Machine_Learning_em_Perfis_LWD](https://github.com/secretaria-ICA/Aplicacao_de_Machine_Learning_em_Perfis_LWD?organization=secretaria-ICA&organization=secretaria-ICA):
+  - Aluno: [Márcio Albuquerque Silveira](https://github.com/marcioasilveira).
+  - Orientador: [Amanda Lemette T. Brandão](https://github.com/amandalemette).
+  - Orientador: [Júlia Potratz](https://github.com/jupotratz).
+
+
+
+
