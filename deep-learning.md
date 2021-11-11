@@ -115,3 +115,8 @@
   - Aluno: [André Bittencourt Pereira](https://github.com/AndreBittencourt84).
   - Orientadora: [Manoela Kohler](https://github.com/manoelakohler).
 
+- [Avaliação de Similaridade Entre Documentos Normativos](https://github.com/secretaria-ICA/Avaliacao_de_Similaridade_Entre_Documentos_Normativos?organization=secretaria-ICA&organization=secretaria-ICA):
+  - Aluno: [Alexandre Gomes Ferriera.](https://github.com/alexgf).
+  - Orientadores: [Leonardo Forero Mendoza](https://github.com/leofome8).
+  - Co-orientador: [Cristian Muñoz](https://github.com/crismunoz).
+
