@@ -90,4 +90,20 @@
   - Aluno: [Leonardo Cardoso Vicente](https://github.com/lcvicente).
   - Orientador: [Leonardo Forero Mendoza](https://github.com/leofome8).
 
+- [Clusterização dos Municípios Brasileiros: Uma Abordagem para Igualdade de Gênero](https://github.com/secretaria-ICA/Clusterizacao_dos_Municipios_Brasileiros_Uma_Abordagem_para_Igualdade_de_Genero?organization=secretaria-ICA&organization=secretaria-ICA):
+  - Aluno: [Izabella Matos](https://github.com/matosizabella).
+  - Orientadores: [Manoela Kohler](https://github.com/manoelakohler).
+
+- [Aplicação de Machine Learning para Apoio à Seleção de Lideres em Uma Empresa de Grande Porte](https://github.com/secretaria-ICA/Aplicacao_de_Machine_Learning_para_Apoio_a_Selecao_de_Lideres_em_Uma_Empresa_de_Grande_Porte):
+  - Aluno: [Alessandro Melgaço Barbosa Filho](https://github.com/beatrizventorini).
+  - Aluno: [Beatriz Ventorini Lins de Albuquerque.](https://github.com/beatrizventorini).
+  - Orientadores: [Manoela Kohler](https://github.com/manoelakohler).
+
+- [Análise e Predição de risco de Ataque Cardíaco](https://github.com/secretaria-ICA/Analise_e_Predicao_de_Risco_de_Ataque_Cardiaco?organization=secretaria-ICA&organization=secretaria-ICA):
+  - Aluno: [Moisés Ferreira de Souza](https://github.com/moisesfsouza).
+  - Orientadores: [Manoela Kohler](https://github.com/manoelakohler).
+
+- [Análise dos Vencedores de Licitações Públicas por Agrupamento](https://github.com/secretaria-ICA/Analise_dos_Vencedores_de_Licitacoes_Publicas_por_Agrupamento?organization=secretaria-ICA&organization=secretaria-ICA):
+  - Aluno: [Glauco Pires Rabello](https://github.com/glaucopr).
+  - Orientadores: [Felipe Borges](https://github.com/FelipeBorgesC).
 
