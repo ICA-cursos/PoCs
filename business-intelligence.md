@@ -48,3 +48,27 @@
   - Aluno: [Manoela Demori Lacombe Penna da Rocha](https://github.com/manoelaBI).
   - Orientador: [Felipe Borges](https://github.com/FelipeBorgesC).
 
+- [Integração API Nubank & Construção de Dashboard](https://github.com/secretaria-ICA/Integracao_API_Nubank_e_Construcao_de_Dashboard):
+  - Aluno: [Rafael Sousa Moreira](https://github.com/rmoreira7).
+  - Orientador: [Anderson Nascimento](https://github.com/insightds).
+
+- [Business Intelligence Aplicado a Fluxos de Rede](https://github.com/secretaria-ICA/Business_Intelligence_Aplicado_a_Fluxos_de_Rede):
+  - Aluno: [Carlos Renato Lemos Rodrigues](https://github.com/carlosrenatolr).
+  - Orientador: [Anderson Nascimento](https://github.com/insightds).
+
+- [Painel de Telefonia](https://github.com/secretaria-ICA/Painel_de_Telefonia):
+  - Aluno: [Eduardo Mendes Tavares](https://github.com/edumenta).
+  - Orientador: [Anderson Nascimento](https://github.com/insightds).
+
+- [Análise dos Gastos com Salários nas Portfólio Company e a Diversidade de Gênero](https://github.com/secretaria-ICA/Analise_dos_Gastos_com_Salarios_nas_Portfolio_company_e_a_Diversidade_de_Genero):
+  - Aluno: [Renata Vieira](https://github.com/Renata-c-vieira).
+  - Orientador: [Anderson Nascimento](https://github.com/insightds).
+
+- [Analise de Dados da Participacao do Uso de Energias Renovaveis no Mercado Energetico](https://github.com/secretaria-ICA/Analise_de_Dados_da_Participacao_do_Uso_de_Energias_Renovaveis_no_Mercado_Energetico):
+  - Aluno: [Renata Moreira Farias de Macedo](https://github.com/renatamacedo).
+  - Orientador: [Anderson Nascimento](https://github.com/insightds).
+
+- [Web Scrapping COMPRASNET](https://github.com/secretaria-ICA/Web_Scrapping_COMPRASNET):
+  - Aluno: [Alessandro Mello de Sousa](https://github.com/amsousa1972).
+  - Orientador: [Felipe Borges](https://github.com/FelipeBorgesC).
+
