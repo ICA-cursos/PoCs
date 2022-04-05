@@ -67,3 +67,20 @@
   - Aluno: [Givanildo Madeiro](https://github.com/givanildomadeiro).
   - Orientadora: [Felipe Borges Coelho](https://github.com/FelipeBorgesC).
 
+- [Maximização do Match Total Baseado em % de Aderência entre Perfis de Candidatos e Perfis de Oportunidades Internas](https://github.com/secretaria-ICA/Maximizacao_do_Match_Total_Baseado_em_Aderencia_entre_Perfis_de_Candidatos_e_de_Oportunidades):
+  - Aluno: [Gustavo Hajdu](https://github.com/GustavoHajdu).
+  - Orientadora: [Felipe Borges Coelho](https://github.com/FelipeBorgesC).
+
+- [Otimizacao de Compra de Medicamentos em Farmacias Online](https://github.com/secretaria-ICA/Otimizacao_de_Compra_de_Medicamentos_em_Farmacias_Online):
+  - Aluno: [Leticia Bacoccoli](https://github.com/leticiabac).
+  - Orientadora: [Felipe Borges Coelho](https://github.com/FelipeBorgesC).
+
+- [Desenvolvimento de Plataforma BI para Monitoramento de Performance de Usinas Solares Fotovoltaicas](https://github.com/secretaria-ICA/Desenvolvimento_de_Plataforma_BI_para_Monitoramento_de_Performance_de_Usinas_Solares_Fotovoltaicas):
+  - Aluno: [Jun Fujise](https://github.com/jfujise94).
+  - Orientadora: [Felipe Borges Coelho](https://github.com/FelipeBorgesC).
+
+- [Determinação do Melhor Substituto numa Equipe Offshore com a Utilização de Algoritmo Genético](https://github.com/secretaria-ICA/Determinacao_do_Melhor_Substituto_Numa_Equipe_Offshore_com_a_Utilizacao_de_Algoritmo_Genetico):
+  - Aluno: [Roberto Alejandro Tello Echenique](https://github.com/rob-tello).
+  - Orientadora: [Felipe Borges Coelho](https://github.com/FelipeBorgesC).
+
+
