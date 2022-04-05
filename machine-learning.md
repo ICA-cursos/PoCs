@@ -129,4 +129,19 @@
   - Aluno: Marcos Tabuquine Marques.
   - Orientador: [Felipe Borges](https://github.com/FelipeBorgesC).
 
+- [Classificação de Interferências em Bancos de Dados de Ferramentas CAE 3D via Métodos de Aprendizado Supervisionado](https://github.com/secretaria-ICA/Classificacao_de_interferencias_de_ferramentas_CAE_3D_via_Metodos_de_Aprendizado_Supervisionado):
+  - Aluno: [Tiago Veroneze](https://github.com/tiagovero).
+  - Orientadores: [Manoela Kohler](https://github.com/manoelakohler) e [José Bermudez](https://github.com/bermudezjose).
+
+- [Identificação de Período Transiente nos Dados de Sensores de uma Bomba de Água com Algoritmos de Clusterização](https://github.com/secretaria-ICA/Identificacao_de_Periodo_Transiente_nos_Dados_de_Sensores_de_uma_Bomba_de_Agua):
+  - Aluno: [Hadriel Toledo Lima](https://github.com/hadriellima).
+  - Orientadores: [Manoela Kohler](https://github.com/manoelakohler).
+
+- [Os Fundos de Ações que mais Ganharam Investidores Durante a Pandemia Relatório de Acompanhamento](https://github.com/secretaria-ICA/Os_Fundos_de_Acoes_que_mais_Ganharam_Investidores_Durante_a_Pandemia):
+  - Aluno: [Priscila Barbosa dos Santos](https://github.com/PrisBarbosa).
+  - Orientadores: [Manoela Kohler](https://github.com/manoelakohler).
+
+- [Perfil dos Participantes da TELOS Fundação Embratel de Seguridade Social](https://github.com/secretaria-ICA/Perfil_dos_Participantes_da_TELOS_Fundacao_Embratel_de_Seguridade_Social):
+  - Aluno: [Maísa Gerk](https://github.com/maisagerk).
+  - Orientadores: [Manoela Kohler](https://github.com/manoelakohler).
 
