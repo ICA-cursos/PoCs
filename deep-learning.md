@@ -120,3 +120,51 @@
   - Orientadores: [Leonardo Forero Mendoza](https://github.com/leofome8).
   - Co-orientador: [Cristian Muñoz](https://github.com/crismunoz).
 
+- [Análise de Sentimento das Empresas Listadas no Índice S & P 500 por FinBERT](https://github.com/secretaria-ICA/Analise_de_Sentimento_das_Empresas_Listadas_no_Indice_S_e_P_500_por_FinBERT):
+  - Aluno: [Paulo Gabriel Dantas Laque](https://github.com/paulolaque).
+  - Orientadora: [Felipe Borges Coelho](https://github.com/FelipeBorgesC).
+
+- [Identificação de Documentos do Tipo Certidão de Óbito e Nascimento Através de um Classificador Baseado em Rede Neural Convolucional](https://github.com/secretaria-ICA/Identificacao_de_Documentos_do_Tipo_Certidao_de_Obito_e_Nascimento_Atraves_de_um_Classificador):
+  - Aluno: Marcio Martins Rocha Ramos.
+  - Orientadores: [Leonardo Forero Mendoza](https://github.com/leofome8).
+
+- [Previsão de Preços de Fechamento no Mercado Acionário com a Utilização de Rede Neural Recorrente](https://github.com/secretaria-ICA/Previsao_de_Precos_de_Fechamento_no_Mercado_Acionario_com_a_Utilizacao_de_Rede_Neural_Recorrente):
+  - Aluno: [Pedro Marques](https://github.com/pedromq).
+  - Orientadores: [Leonardo Forero Mendoza](https://github.com/leofome8).
+
+- [Análise de Sentimento de Avaliações Realizadas no Google](https://github.com/secretaria-ICA/Analise_de_Sentimento_de_Avaliacoes_Realizadas_no_Google):
+  - Aluno: [Daniel Portugal](https://github.com/danielportugalHTW).
+  - Orientadores: [Leonardo Forero Mendoza](https://github.com/leofome8).
+
+- [Treinamento de Modelo TEXT-TO-SQL na Língua Portuguesa](https://github.com/secretaria-ICA/Treinamento_de_Modelo_TEXT_TO_SQL_na_Lingua_Portuguesa):
+  - Aluno: [Allan Miranda](https://github.com/allangxg).
+  - Orientadores: [Leonardo Forero Mendoza](https://github.com/leofome8).
+
+- [Identificação de Similaridade entre Anomalias de Segurança Meio Ambiente e Saúde](https://github.com/secretaria-ICA/Identificacao_de_Similaridade_entre_Anomalias_de_Seguranca_Meio_Ambiente_e_Saude):
+  - Aluno: [Andrea Pitol Ferreira](https://github.com/afpitol) e [Ludmila Junca Lopes](https://github.com/milajunker).
+  - Orientadores: [Leonardo Forero Mendoza](https://github.com/leofome8).
+
+- [Desenvolvimento de Aplicação Mobile para Auxílio a Navegação de JETSKIS](https://github.com/secretaria-ICA/Desenvolvimento_de_Aplicacao_Mobile_para_Auxilio_a_Navegacao_de_JETSKIS):
+  - Aluno: [Rafael de Almeida Peçanha](https://github.com/Rafaelpecan).
+  - Orientadores: [Manoela kohler](https://github.com/manoelakohler).
+
+- [Previsão de Volatilidade com um modelo híbrido GRU-EGarch](https://github.com/secretaria-ICA/Previsao_de_Volatilidade_com_um_Modelo_Hibrido_GRU-EGarch):
+  - Aluno: [Daniel Ryba Zanardini de Oliveira](https://github.com/DanielRZO).
+  - Orientadores: [Manoela kohler](https://github.com/manoelakohler) e [Leonardo Alfredo Forero Mendoza](https://github.com/leofome8).
+
+- [Predição de Geração de Energia Eólica](https://github.com/secretaria-ICA/Predicao_de_Geracao_de_Energia_Eolica):
+  - Aluno: [Tales Simões Mattos](https://github.com/Talesbr).
+  - Orientadores: [Manoela kohler](https://github.com/manoelakohler).
+
+- [Processamento Automático de Invoices a partir de Arquivos PDF](https://github.com/secretaria-ICA/Processamento_Automatico_de_Invoices_a_partir_de_Arquivos_PDF):
+  - Aluno: [Edson Andrade de Moraes](https://github.com/EdsonAndMor/).
+  - Orientadores: [Leonardo Alfredo Forero Mendoza](https://github.com/leofome8).
+
+- [Classificação de Falhas em Poços do Tipo Stripper Well](https://github.com/secretaria-ICA/Classificacao_de_Falhas_em_Pocos_do_Tipo_Stripper_Well):
+  - Aluno: [Richard Peters](https://github.com/richpe87).
+  - Orientadores: [Felipe Borges](https://github.com/FelipeBorgesC).
+
+- [Classificação e Previsão de Imagens de Rochas em Poços Perfurados por meio de Métodos de Aprendizagem Supervisionados por Aprendizagem Profunda e Modelos Pré-treinados](https://github.com/secretaria-ICA/Classificacao_e_Previsao_de_Imagens_de_Rochas_em_Pocos_Perfurados_atraves_de_Metodos_de_Aprendizagem):
+  - Aluno: [Fabio Basson](https://github.com/fabiobasson).
+  - Orientadores: [Felipe Borges](https://github.com/FelipeBorgesC) e [Manoela kohler](https://github.com/manoelakohler).
+
