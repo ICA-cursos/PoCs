@@ -83,4 +83,6 @@
   - Aluno: [Roberto Alejandro Tello Echenique](https://github.com/rob-tello).
   - Orientadora: [Felipe Borges Coelho](https://github.com/FelipeBorgesC).
 
-
+- [Otimização de Aplicações Financeiras](https://github.com/secretaria-ICA/Otimizacao_de_Aplicacoes_Financeiras):
+  - Aluno: [Flavia Szczerbacki](https://github.com/BIFla).
+  - Orientadora: [Felipe Borges Coelho](https://github.com/FelipeBorgesC).
