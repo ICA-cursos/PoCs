@@ -168,3 +168,52 @@
   - Aluno: [Fabio Basson](https://github.com/fabiobasson).
   - Orientadores: [Felipe Borges](https://github.com/FelipeBorgesC) e [Manoela kohler](https://github.com/manoelakohler).
 
+- [Previsao de Series Temporais sobre a Geracao Eolica do Nordeste](https://github.com/secretaria-ICA/Previsao_de_Series_Temporais_sobre_a_Geracao_Eolica_do_Nordeste):
+  - Aluno: [Carlos Henrique Calvo Martinez](https://github.com/carlosMartinez93).
+  - Orientadores: [Manoela kohler](https://github.com/manoelakohler).
+
+- [Obtencao de Noticias da Web e Filtragem Utilizando Transformers e Similaridade dos Cossenos](https://github.com/secretaria-ICA/Obtencao_de_Noticias_da_Web_e_Filtragem_Utilizando_Transformers_e_Similaridade_dos_Cossenos):
+  - Aluno: [Andrius Lopes do Nascimento](https://github.com/Andrius-Lona).
+  - Orientadores: [Felipe Borges](https://github.com/FelipeBorgesC).
+  - Orientadores: [Leonardo Mendoza](https://github.com/leofome8).
+
+- [Aplicacao de Modelos de Previsao de Vendas para o Walmart](https://github.com/secretaria-ICA/Aplicacao_de_Modelos_de_Previsao_de_Vendas_para_o_Walmart):
+  - Aluno: Felipe Lopes Meira Alves.
+  - Orientadores: [Felipe Borges](https://github.com/FelipeBorgesC).
+
+- [Analise de Sentimentos em Textos sobre o BNDES](https://github.com/secretaria-ICA/Analise_de_Sentimentos_em_Textos_sobre_o_BNDES):
+  - Aluno: [Gustavo Dutra Martins](https://github.com/gdutramartins/).
+  - Orientadores: [Leonardo Mendoza](https://github.com/leofome8).
+  
+- [Classificacao de Imagens de Ultrassonografia Mamaria por meio de Aprendizagem Profunda](https://github.com/secretaria-ICA/Classificacao_de_Imagens_de_Ultrassonografia_Mamaria_por_meio_de_Aprendizagem_Profunda):
+  - Aluno: [Geilson Gomes Araujo](https://github.com/Geilson-Araujo).
+  - Orientadores: [Manoela kohler](https://github.com/manoelakohler).
+
+- [Reconhecimento de Aeronaves a Partir de Imagens de Sensoriamento Remoto Usando Deep Learning](https://github.com/secretaria-ICA/Reconhecimento_de_Aeronaves_a_Partir_de_Imagens_de_Sensoriamento_Remoto_Usando_Deep_Learning):
+  - Aluno: [David Fernando Castillo Zúñiga](https://github.com/davidfer88).
+  - Orientadores: [Leonardo Mendoza](https://github.com/leofome8).
+
+- [Estimativa de Geracao de Energia Fotovoltaica a partir da Classificacao de Imagens Celeste e Rede Neural Convolucional](https://github.com/secretaria-ICA/Estimativa_de_Geracao_de_Energia_Fotovoltaica_a_partir_da_Classificacao_de_Imagens_Celeste):
+  - Aluno: Leonardo Sondermann Christianes.
+  - Orientadores: Evelyn Batista.
+
+- [Analise de Investimentos para Acoes por Meio da Simulacao de Monte Carlos Series Temporais e Redes Neurais LSTM](https://github.com/secretaria-ICA/Analise_de_Investimentos_para_Acoes_por_Meio_da_Simulacao_de_Monte_Carlos):
+  - Aluno: [ARCADIO DE PAULA FERNANDEZ](https://github.com/arcadiopfz/).
+  - Orientadores: [Leonardo Mendoza](https://github.com/leofome8).
+
+- [Classificacao_de_Acoes_com_Redes_Neurais](https://github.com/secretaria-ICA/Classificacao_de_Acoes_com_Redes_Neurais):
+  - Aluno: [Ricardo Monteiro](https://github.com/ragmonteiro).
+  - Orientadores: [Felipe Borges](https://github.com/FelipeBorgesC).
+
+- [Classificacao de Imagens de Amostras Geologicas Usando a Tecnica de Transfer Learning Aplicada na resNet50](https://github.com/secretaria-ICA/Classificacao_de_Imagens_de_Amostras_Geologicas_Usando_a_Tecnica_de_Transfer_Learning):
+  - Aluno: [Fredy Giovany Osorio Gutierrez](https://github.com/fr3dyos).
+  - Orientadores: [Leonardo Mendoza](https://github.com/leofome8).
+
+- [Classificacao_de_Imagens com Transfer Learning](https://github.com/secretaria-ICA/Classificacao_de_Imagens_com_Transfer_Learning):
+  - Aluno: Mauricio Pereira Rangel.
+  - Orientadores: [Felipe Borges](https://github.com/FelipeBorgesC).
+  - Orientadores: [Manoela kohler](https://github.com/manoelakohler).
+
+
+
+
