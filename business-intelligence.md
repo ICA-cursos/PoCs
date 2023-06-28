@@ -72,3 +72,23 @@
   - Aluno: [Alessandro Mello de Sousa](https://github.com/amsousa1972).
   - Orientador: [Felipe Borges](https://github.com/FelipeBorgesC).
 
+- [Business Intelligence Aplicado a Pequenos Negocios Digitais](https://github.com/secretaria-ICA/Business_Intelligence_Aplicado_a_Pequenos_Negocios_Digitais_Um_Estudo_de_Caso):
+  - Aluno: [Daniel Luiz Silva de Oliveira](https://github.com/daniellsoliveira).
+  - Orientador: [Anderson Nascimento](https://github.com/insightds).
+ 
+- [Raspagem de Relatorios da Industria Automotiva para Projetos de NLP](https://github.com/secretaria-ICA/Raspagem_de_Relatorios_da_Industria_Automotiva_para_Projetos_de_NLP):
+  - Aluno: [Leonardo Aucar](https://github.com/leoaucar).
+  - Orientador: [Evelyn Batista](https://github.com).
+   
+- [Scrapper e Identificador de Noticias](https://github.com/secretaria-ICA/Scrapper_e_Identificador_de_Noticias):
+  - Aluno: [André Luiz de Mattos Gonçalves](https://github.com/almattos2008).
+  - Orientador: [Felipe Borges](https://github.com/FelipeBorgesC).
+    
+- [Analise da Satisfacao do Usuario com os Atendimentos Realizados pela TIC da PETROBRAS](https://github.com/secretaria-ICA/Analise_da_Satisfacao_do_Usuario_com_os_Atendimentos_Realizados_pela_TIC_da_Petrobras):
+  - Aluno: [Jose Leonel Majewski](https://github.com/leonelmajewski).
+  - Orientador: [Manoela Kohler](https://github.com/manoelakohler).
+
+- [Analise de Sentimento de Avaliacoes de Dados Extraidos da Base do Twitter Relacionado ao Tema Eletrobras](https://github.com/secretaria-ICA/Analise_de_Sentimento_de_Avaliacoes_de_Dados_Extraidos_da_Base_do_Twitter):
+  - Aluno: [ André Luis Mendes Teixeira].
+  - Orientador: [Evelyn Batista].
+
