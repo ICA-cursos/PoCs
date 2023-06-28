@@ -145,3 +145,54 @@
   - Aluno: [Maísa Gerk](https://github.com/maisagerk).
   - Orientadores: [Manoela Kohler](https://github.com/manoelakohler).
 
+- [Mensurando o Impacto da Presenca de Torcida nas Chances de Vitoria do Time da Casa em uma Partida da NBA](https://github.com/secretaria-ICA/Mensurando_o_Impacto_da_Presenca_de_Torcida_nas_Chances_de_Vitoria_do_Time_da_Casa_em_uma_Partida):
+  - Aluno: [Stefanno Ruiz Manni](https://github.com/Stefanno28).
+  - Orientadores: [Manoela Kohler](https://github.com/manoelakohler).
+ 
+- [Analise RNN LSTM da serie Temporal do Bitcoin Aliada a Analise de Sentimentos de Midias Sociais com VADER (Valence Aware Dictionary and Sentiment Reasoner)](https://github.com/secretaria-ICA/Analise_RNN_LSTM_da_serie_Temporal_do_Bitcoin_Aliad_a_Analise_de_Sentimentos_de_Midias_Sociais):
+  - Aluno: [Alexandre Lima Santiago de Pinho](https://github.com/ALSPinho).
+  - Orientador: [Leonardo Forero Mendoza](https://github.com/leofome8).
+
+- [Predicao de Precos do Oleo Cru Usando Ferramenta de Machine Learning e Predicao de Dados](https://github.com/secretaria-ICA/Predicao_de_Precos_do_Oleo_Cru_Usando_Ferramenta_de_Machine_Learning_e_Predicao_de_Dados):
+  - Aluno: [Cristiane Altomari Teixeira](https://github.com/crisaltomari).
+  - Orientador: [Felipe Borges](https://github.com/FelipeBorgesC).
+
+- [Previsao de Cancelamentos em Hoteis)](https://github.com/secretaria-ICA/Previsao_de_Cancelamentos_em_Hoteis):
+  - Aluno: [Marine Patricia Chevallier](https://github.com/marineche).
+  - Orientador: [Leonardo Forero Mendoza](https://github.com/leofome8).
+
+- [Document Retrieval de Literaturas Brasileiras](https://github.com/secretaria-ICA/Document_Retrieval_de_Literaturas_Brasileiras):
+  - Aluno: [Camilo Lopes Costa](https://github.com/milocosta).
+  - Orientador: [Felipe Borges](https://github.com/FelipeBorgesC).
+
+- [A Previsibilidade em Eventos Aleatorios](https://github.com/secretaria-ICA/A_Previsibilidade_em_Eventos_Aleatorios):
+  - Aluno: [Silvia Puetter Mattos](https://github.com/silviapuetter).
+  - Orientadores: [Manoela Kohler](https://github.com/manoelakohler).
+
+- [Scraping e Previsao de Precos de Passagens Rio Berlim](https://github.com/secretaria-ICA/Scraping_e_Previsao_de_Precos_de_Passagens_Rio_Berlim):
+  - Aluno: [Luiz Gomes Ribeiro Neto](https://github.com/luizgrneto).
+  - Orientador: [Felipe Borges](https://github.com/FelipeBorgesC).
+
+- [Analise de Discursos de Deputados e Deputadas Federais Atraves de Tecnicas de NLP e Machine Learning)](https://github.com/secretaria-ICA/Analise_de_Discursos_de_Deputados_e_Deputadas_Federais_Atraves_de_Tecnicas_de_NLP_e_Machine_Learning#analise_de_discursos_de_deputados_e_deputadas_federais_atraves_de_tecnicas_de_nlp_e_machine_learning):
+  - Aluno: [Rodrigo Montenegro de Oliveira](https://github.com/rmontenegroo).
+  - Orientador: [Leonardo Forero Mendoza](https://github.com/leofome8).
+
+- [Machine Learning para Classificacao e Categorizacao de Falhas em Equipamentos](https://github.com/secretaria-ICA/A_Previsibilidade_em_Eventos_Aleatorios):
+  - Aluno: [Cristóvão Augusto Pessanha de Souza Júnior](https://github.com/crisouzajr).
+  - Orientadores: [Manoela Kohler](https://github.com/manoelakohler).
+
+- [Criacao de um Modelo de Machine Learning para prever Cancelamentos de Assinaturas em uma Empresa de Telecomunicacoes](https://github.com/secretaria-ICA/Modelo_de_Machine_Learning_para_prever_Cancelamentos_de_Assinaturas_em_Empresas_de_Telecomunicacao):
+  - Aluno: [Bernardo Nunes Guarisco de Assumpção](https://github.com/guariscobe).
+  - Orientadores: [Manoela Kohler](https://github.com/manoelakohler).
+ 
+- [Previsao da Producao de Biodiesel com Rede Neural do Tipo LSTM Bidirecional](https://github.com/secretaria-ICA/Previsao_da_Producao_de_Biodiesel_com_Rede_Neural_do_Tipo_LSTM_Bidirecional):
+  - Aluno: [Andre de Oliveira Salles](https://github.com/andresalles93).
+  - Orientador: [Felipe Borges](https://github.com/FelipeBorgesC).
+
+- [Deteccao de Anomalias em Series Temporal](https://github.com/secretaria-ICA/Deteccao_de_Anomalias_em_Series_Temporal/edit/main/README.md):
+  - Aluno: Alex Marques Campos.
+  - Orientador: [Leonardo Forero Mendoza](https://github.com/leofome8).
+
+- [Metodos de Identificacao Automatica de Dados Inconscientes de Estimativa de Precipitacao de Satelite](https://github.com/secretaria-ICA/Metodos_de_Identificacao_Automatica_de_Dados_Inconscientes_de_Estimativa_de_Precipitacao_de_Satelite):
+  - Aluno: [Hugo Bernardo Barros Torraca](https://github.com/HugoTorraca).
+  - Orientador: [Evelyn Batista](https://github.com/evysb).
