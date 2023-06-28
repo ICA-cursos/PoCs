@@ -86,3 +86,43 @@
 - [Otimização de Aplicações Financeiras](https://github.com/secretaria-ICA/Otimizacao_de_Aplicacoes_Financeiras):
   - Aluno: [Flavia Szczerbacki](https://github.com/BIFla).
   - Orientadora: [Felipe Borges Coelho](https://github.com/FelipeBorgesC).
+
+- [Otimizacao na Construcao e Envio de Informes Mensais de Fundos](https://github.com/secretaria-ICA/Otimizacao_na_Construcao_e_Envio_de_Informes_Mensais_de_Fundos):
+  - Aluno: [Rafael Alcantara da Silva](https://github.com/alcraf).
+  - Orientadora: [Felipe Borges Coelho](https://github.com/FelipeBorgesC).
+ 
+- [Otimizacao da Programacao de Servicos de Manutencao em uma Plataforma de Petroleo Incorporando Criterios de Seguranca e Simultaneidade entre Tarefas Incompativeis](https://github.com/secretaria-ICA/Otimizacao_da_Programacao_de-Servicos_de_Manutencao_em_uma_Plataforma_de_Petroleo):
+  - Aluno: [Edson Dias da Costa](https://github.com/edsondcosta).
+  - Orientadora: [Felipe Borges Coelho](https://github.com/FelipeBorgesC).
+ 
+- [Otimizacao de Rota para Agente Comercial](https://github.com/secretaria-ICA/Otimizacao_de_Rota_para_Agente_Comercial):
+  - Aluno: [Sergio Guerra](https://github.com/sgustavobr).
+  - Orientadora: [Felipe Borges Coelho](https://github.com/FelipeBorgesC).
+
+- [Otimizacao do Agendamento de Cargas de Grandes Volumes em Ambientes de BIGDATA](https://github.com/secretaria-ICA/Otimizacao_do_Agendamento_de_Cargas_de_Grandes-_Volumes_em_Ambientes_de_BIGDATA):
+  - Aluno: [Andre Luiz maravilha Franco da Silva](https://github.com/AndreLuisMaravilha).
+  - Orientadora: [Felipe Borges Coelho](https://github.com/FelipeBorgesC)
+ 
+- [Otimizacao de Operacoes de Sondas](https://github.com/secretaria-ICA/Otimizacao_de_Operacoes_de_Sondas):
+  - Aluno: [Agnaldo Silva](https://github.com/AgnaldoMagnum).
+  - Orientadora: [Felipe Borges Coelho](https://github.com/FelipeBorgesC)
+ 
+- [Ferramenta para Geracao de Dieta com Maximizacao de Combinacoes Possiveis para Refeicoes com Restricoes e Alvo Calorico Diario](https://github.com/secretaria-ICA/Ferramenta_para_Geracao_de_Dieta_com-_Maximizacao_de_Combinacoes_Possiveis_para_Refeicoes):
+  - Aluno: [Maurion Lourenço de Freitas](https://github.com/maurionFreitas).
+  - Orientadora: [Felipe Borges Coelho](https://github.com/FelipeBorgesC)
+
+- [Modelo de Otimizacao para Gerar Prontuario de Florais de Bach Atraves do Solver](https://github.com/secretaria-ICA/Modelo_de_Otimizacao_para_Gerar_Prontuario_de_Florais_de_Bach_Atraves_do_Solver):
+  - Aluno: [Fernanda viviani de Paula](https://github.com/fernandaviviani).
+  - Orientadora: [Felipe Borges Coelho](https://github.com/FelipeBorgesC)
+
+- [Aplicacoes de Otimizacao sob Incerteza para Lancamento de Produtos](https://github.com/secretaria-ICA/Aplicacoes_de_Otimizacao_sob_Incerteza_para_Lancamento_de_Produtos):
+  - Aluno: Victor Soledade Moraes Amaral Neto.
+  - Orientadora: [Ana Carolina Alves Abreu](https://github.com/acarolina1612).
+
+- [Otimizacao de Espaco em Ambiente Corporativo](https://github.com/secretaria-ICA/Otimizacao_de_Espaco_em_Ambiente_Corporativo):
+  - Aluno: [Renan Canellas ramsauer](https://github.com/Renan-Canellas).
+  - Orientadora: [Ana Carolina Alves Abreu](https://github.com/acarolina1612).
+
+- [Otimizacao para Minimizar a Emissao de CO2 na Rota das Embarcacoes para Alivio de Plataformas](https://github.com/secretaria-ICA/Otimizacao_para_Minimizar_a_Emissao_de_CO2_na_Rota_das_Embarcacoes_para_Alivio_de_Plataformas):
+  - Aluno: [Vinicius Alves da Silva](https://github.com/vinirio10).
+  - Orientadora: [Felipe Borges Coelho](https://github.com/FelipeBorgesC)
