@@ -92,3 +92,11 @@
   - Aluno: [ André Luis Mendes Teixeira].
   - Orientador: [Evelyn Batista].
 
+- [Valuation_por_fluxo_de_caixa_descontado_utilizando_a_simulacao_de_monte_carlo](https://github.com/secretaria-ICA/Valuation-por-fluxo-de-caixa-descontado-utilizando-a-simulacao-de-monte-carlo):
+  - Aluno: [ALVARO AUGUSTO SILVA JUNIOR](https://github.com/aasjr).
+  - Orientador: [Felipe Borges](https://github.com/FelipeBorgesC).
+ 
+- [Controle_Automatizado_de_Obsolescencia_de_Inventario_de_Redes_de_TI_usando_Power_BI](https://github.com/secretaria-ICA/Controle_Automatizado_de_Obsolescencia_de_Inventario_de_Redes_de_TI_usando_Power_BI):
+  - Aluno: [Alexsander Geraldo de Lima](https://github.com/aleglima71).
+  - Orientador: [Anderson Nascimento](https://github.com/insightds).
+ 
