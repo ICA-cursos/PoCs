@@ -196,3 +196,17 @@
 - [Metodos de Identificacao Automatica de Dados Inconscientes de Estimativa de Precipitacao de Satelite](https://github.com/secretaria-ICA/Metodos_de_Identificacao_Automatica_de_Dados_Inconscientes_de_Estimativa_de_Precipitacao_de_Satelite):
   - Aluno: [Hugo Bernardo Barros Torraca](https://github.com/HugoTorraca).
   - Orientador: [Evelyn Batista](https://github.com/evysb).
+ 
+- [Path_Planning_and_Path_Covering_using_Q_Learning_Algorithm](https://github.com/secretaria-ICA/Path_Planning_and_Path_Covering_using_Q_Learning_Algorithm):
+  - Aluno: [Daniel Werneck Rodrigues](https://github.com/DanielWerneckRodrigues).
+  - Orientador: [Evelyn Batista](https://github.com/evysb).
+ 
+- [Analise_Parametrica_de_uma_LSTM_Aplicada_a_Previsao_de_Preco_de-_Cotacoes_de_Acoes](https://github.com/secretaria-ICA/Analise_Parametrica_de_uma_LSTM_Aplicada_a_Previsao_de_Preco_de-_Cotacoes_de_Acoes):
+  - Aluno: [Jane Vieira Volotão](https://github.com/janevolotao).
+  - Orientadores: [Manoela Kohler](https://github.com/manoelakohler).
+ 
+- [Uso_de_Machine_Learning_para_Analise_Geologica_e_Petrofisica_de_Rocha_Reservatorio_de_Petroleo](https://github.com/secretaria-ICA/Uso_de_Machine_Learning_para_Analise_Geologica_e_Petrofisica_de_Rocha_Reservatorio_de_Petroleo):
+  - Aluno: [João Paulo Teixeira da Fonseca](https://github.com/jpfsc).
+  - Orientadores: [Manoela Kohler](https://github.com/manoelakohler).
+ 
+
