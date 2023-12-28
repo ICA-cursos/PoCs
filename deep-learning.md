@@ -226,3 +226,7 @@
   - Aluno: [José Arthur Domingues Patricio](https://github.com/ArthurPatricio).
   - Orientadora: [Manoela kohler](https://github.com/manoelakohler).
 
+- [Previsão da produção de Óleo com base em modelos de aprendizado profundo](https://github.com/secretaria-ICA/Previsao_da_producao_de_Oleo_com_base_em_modelos_de_aprendizado_profundo):
+  - Aluno: [Vinicius Mattoso Reis da Silva](https://github.com/vinicius-mattoso).
+  - Orientadora: [Manoela kohler](https://github.com/manoelakohler).
+
