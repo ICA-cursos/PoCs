@@ -216,3 +216,7 @@
 - [Reconhecimento Facial para Identificação de Colaboradores no Registro de Ponto Eletrônico](https://github.com/secretaria-ICA/Reconhecimento_Facial_para_Identificacao_de_Colaboradores_no_Registro_de_Ponto_Eletronico):
   - Aluno: [Igor Merlo Maciel Rocha](https://github.com/igormmrocha).
   - Orientador: [Leonardo Forero Mendoza](https://github.com/leofome8).
+ 
+- [Previsão de Séries Temporais Aplicada a Vendas no Varejo: Um Estudo de Caso](https://github.com/secretaria-ICA/Previsao_de_Series_Temporais_Aplicada_a_Vendas_no_Varejo_Um_Estudo_de_Caso):
+  - Aluno: [Natasa Marinkovic](https://github.com/natasariobgd).
+  - Orientadores: [Manoela Kohler](https://github.com/manoelakohler).
