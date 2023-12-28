@@ -209,4 +209,8 @@
   - Aluno: [João Paulo Teixeira da Fonseca](https://github.com/jpfsc).
   - Orientadores: [Manoela Kohler](https://github.com/manoelakohler).
  
+- [Construcao_de_Pipeline_de_Dados_API_Mercado_Livre](https://github.com/secretaria-ICA/Construcao_de_Pipeline_de_Dados_API_Mercado_Livre):
+  - Aluno: [Victor Gustavo Rosa Ribeiro](https://github.com/victorgrrtj).
+  - Orientador: [Felipe Borges](https://github.com/FelipeBorgesC).
+ 
 
