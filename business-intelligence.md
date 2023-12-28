@@ -104,3 +104,6 @@
   - Aluno: [Fernanda de Brito Berla](https://github.com/feberla).
   - Orientador: [Anderson Nascimento](https://github.com/insightds).  
  
+- [Projeto de Business Intelligence para Análise da Vendas da Clínica Veterinária Sicuro Home Vet](https://github.com/secretaria-ICA/Projeto_de_Business_Intelligence_para_Analise_da_Vendas_da_Clinica_Veterinaria_Sicuro_Home_Vet):
+  - Aluno: [Daiana Maria Mota Augusto Sicuro ](https://github.com/daianasicuro).
+  - Orientador: [Anderson Nascimento](https://github.com/insightds).  
