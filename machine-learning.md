@@ -213,4 +213,6 @@
   - Aluno: [Victor Gustavo Rosa Ribeiro](https://github.com/victorgrrtj).
   - Orientador: [Felipe Borges](https://github.com/FelipeBorgesC).
  
-
+- [Reconhecimento Facial para Identificação de Colaboradores no Registro de Ponto Eletrônico](https://github.com/secretaria-ICA/Reconhecimento_Facial_para_Identificacao_de_Colaboradores_no_Registro_de_Ponto_Eletronico):
+  - Aluno: [Igor Merlo Maciel Rocha](https://github.com/igormmrocha).
+  - Orientador: [Leonardo Forero Mendoza](https://github.com/leofome8).
