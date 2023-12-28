@@ -216,10 +216,13 @@
  
 - [Utilizacao_de_IA_na_Construcao_de_Ferramentas_Interativas_para_Websites](https://github.com/secretaria-ICA/Utilizacao_de_IA_na_Construcao_de_Ferramentas_Interativas_para_Websites):
   - Aluno: [Giovanna Santoloni Dohnert](https://github.com/giovannasantoloni).
-  - Orientador: [Manoela kohler](https://github.com/manoelakohler).
+  - Orientadora: [Manoela kohler](https://github.com/manoelakohler).
 
 - [Aerofotogrametria_Segmentacao_Imagens_Aereas_para_MDT_Otimizado](https://github.com/secretaria-ICA/Aerofotogrametria-Segmentacao-Imagens-Aereas-para-MDT-otimizado):
   - Aluno: [Márcio Palma d'El-Rei Pinto](https://github.com/marciodelrei).
-  - Orientador: [Manoela kohler](https://github.com/manoelakohler).
+  - Orientadora: [Manoela kohler](https://github.com/manoelakohler).
 
+- [Inteligência Artificial para Predição de Jogos de Basquete](https://github.com/secretaria-ICA/Inteligencia_Artificial_para_Predicao_de_Jogos_de_Basquete):
+  - Aluno: [José Arthur Domingues Patricio](https://github.com/ArthurPatricio).
+  - Orientadora: [Manoela kohler](https://github.com/manoelakohler).
 
