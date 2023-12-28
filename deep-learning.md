@@ -230,3 +230,6 @@
   - Aluno: [Vinicius Mattoso Reis da Silva](https://github.com/vinicius-mattoso).
   - Orientadora: [Manoela kohler](https://github.com/manoelakohler).
 
+- [Reinforcement Learning Aplicado a Trading de Bitcoin](https://github.com/secretaria-ICA/Reinforcement_Learning_Aplicado_a_Trading_de_Bitcoin):
+  - Aluno: [Fábio Quintão](https://github.com/fabioquintao).
+  - Orientadora: [Evelyn Batista](https://github.com/evysb).
