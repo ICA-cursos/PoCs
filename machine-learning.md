@@ -220,3 +220,7 @@
 - [Previsão de Séries Temporais Aplicada a Vendas no Varejo: Um Estudo de Caso](https://github.com/secretaria-ICA/Previsao_de_Series_Temporais_Aplicada_a_Vendas_no_Varejo_Um_Estudo_de_Caso):
   - Aluno: [Natasa Marinkovic](https://github.com/natasariobgd).
   - Orientadores: [Manoela Kohler](https://github.com/manoelakohler).
+ 
+- [Otimizando cálculos de disponibilidade de satélites com Inteligência Artificial](https://github.com/secretaria-ICA/Otimizando_calculos_de_disponibilidade_de_satelites_com_Inteligencia_Artificial):
+  - Aluno: [Eleonora Cominato Weiner](https://github.com/noracw).
+  - Orientadores: [Manoela Kohler](https://github.com/manoelakohler).  
