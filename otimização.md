@@ -130,3 +130,7 @@
 - [Otimização de carteiras de investimentos](https://github.com/secretaria-ICA/Otimizacao_de_carteiras_de_investimentos):
   - Aluno: [Jefferson Terra da Conceição](https://github.com/jtcearth).
   - Orientador: [Felipe Borges Coelho](https://github.com/FelipeBorgesC)
+
+- [Carteira de investimentos](https://github.com/secretaria-ICA/Carteira_de_investimentos):
+  - Aluno: [Maria Elisa Guerisoli Puertas](https://github.com/elisapuertas).
+  - Orientador: [Felipe Borges Coelho](https://github.com/FelipeBorgesC)
