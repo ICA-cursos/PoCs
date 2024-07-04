@@ -233,3 +233,7 @@
 - [Reinforcement Learning Aplicado a Trading de Bitcoin](https://github.com/secretaria-ICA/Reinforcement_Learning_Aplicado_a_Trading_de_Bitcoin):
   - Aluno: [Fábio Quintão](https://github.com/fabioquintao).
   - Orientadora: [Evelyn Batista](https://github.com/evysb).
+
+ - [Análise de Perfil de Políticos Brasileiros](https://github.com/secretaria-ICA/AnaliseDePerfilDePoliticosBrasileiros):
+  - Aluna: [Luiza Magalhães Henriques](https://github.com/luizahenriques/perfilpoliticos/).
+  - Orientador: [Felipe Borges](https://github.com/FelipeBorgesC).
