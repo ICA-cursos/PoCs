@@ -235,5 +235,5 @@
   - Orientadora: [Evelyn Batista](https://github.com/evysb).
 
  - [Análise de Perfil de Políticos Brasileiros](https://github.com/secretaria-ICA/AnaliseDePerfilDePoliticosBrasileiros):
-    - Aluna: [Luiza Magalhães Henriques](https://github.com/luizahenriques/perfilpoliticos/).
+    - Aluna: [Luiza Magalhães Henriques](https://github.com/luizahenriques/).
     - Orientador: [Felipe Borges](https://github.com/FelipeBorgesC).
