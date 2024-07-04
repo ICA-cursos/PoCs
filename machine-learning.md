@@ -223,4 +223,8 @@
  
 - [Otimizando cálculos de disponibilidade de satélites com Inteligência Artificial](https://github.com/secretaria-ICA/Otimizando_calculos_de_disponibilidade_de_satelites_com_Inteligencia_Artificial):
   - Aluno: [Eleonora Cominato Weiner](https://github.com/noracw).
-  - Orientadores: [Manoela Kohler](https://github.com/manoelakohler).  
+  - Orientadores: [Manoela Kohler](https://github.com/manoelakohler).
+
+- [Definição da Melhor Ação de Cobrança - Debt Collection](https://github.com/secretaria-ICA/DefinicaoDaMelhorAcaoDeCobrancaDebtCollection)
+  - Aluno: [Marcos Alonso Guimarães](https://github.com/alonsoguimaraesmarcos)
+  - Orientador: [Leonardo Forero Mendoza](https://github.com/leofome8).  
