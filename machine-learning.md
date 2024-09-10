@@ -227,4 +227,8 @@
 
 - [Definição da Melhor Ação de Cobrança - Debt Collection](https://github.com/secretaria-ICA/DefinicaoDaMelhorAcaoDeCobrancaDebtCollection)
   - Aluno: [Marcos Alonso Guimarães](https://github.com/alonsoguimaraesmarcos)
-  - Orientador: [Leonardo Forero Mendoza](https://github.com/leofome8).  
+  - Orientador: [Leonardo Forero Mendoza](https://github.com/leofome8).
+ 
+- [Marketing Analytics](https://github.com/secretaria-ICA/Marketing-Analytics)
+  - Aluno: [Manuel Calçada de Sousa](https://github.com/manuelcalcada).
+  - Orientadores: [Manoela Kohler](https://github.com/manoelakohler).
