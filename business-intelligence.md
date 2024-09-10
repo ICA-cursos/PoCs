@@ -106,4 +106,8 @@
  
 - [Projeto de Business Intelligence para Análise da Vendas da Clínica Veterinária Sicuro Home Vet](https://github.com/secretaria-ICA/Projeto_de_Business_Intelligence_para_Analise_da_Vendas_da_Clinica_Veterinaria_Sicuro_Home_Vet):
   - Aluno: [Daiana Maria Mota Augusto Sicuro ](https://github.com/daianasicuro).
-  - Orientador: [Anderson Nascimento](https://github.com/insightds).  
+  - Orientador: [Anderson Nascimento](https://github.com/insightds).
+
+- [BI Seguradora](https://github.com/secretaria-ICA/BI-Seguradora):
+  - Aluno: [Eduardo Marques da Costa](https://github.com/Eduardo-alunoBI).
+  - Orientador: [Anderson Nascimento](https://github.com/insightds). 
