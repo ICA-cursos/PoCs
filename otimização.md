@@ -2,7 +2,7 @@
 
 #### Para acesso ao código ou resumo, basta clicar no título de cada item.
 
-## [BI-MASTER](https://ica.puc-rio.ai/bi-master)
+## [BI-MASTER](https://ica.ele.puc-rio.br/cursos/)
 
 - [Otimização Multiobjetivo de Controle de Produção de Poços de Petróleo por Algoritmos Genéticos](https://github.com/secretaria-ICA/Otimizacao_Multiobjetivo_de_Controle_de_Producao_de_Pocos_de_Petroleo_por_Algoritmos_Geneticos):
   - Aluno: [Douglas de Souza Abreu](https://github.com/dougabreu).
