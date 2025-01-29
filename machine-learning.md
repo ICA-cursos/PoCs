@@ -2,7 +2,7 @@
 
 #### Para acesso ao código ou resumo, basta clicar no título de cada item.
 
-## [BI-MASTER](https://ica.puc-rio.ai/bi-master)
+## [BI-MASTER](https://ica.ele.puc-rio.br/cursos/)
 
 - [Técnica de Machine Learning Aplicada a Interpretação de Teste em Poços sob Condição Não-Isotérmica](https://github.com/secretaria-ICA/Tecnica_de_Machine_Learning_Aplicada_a_Interpretacao_de_Teste_em_Pocos_sob_Condicao_Nao-Isotermica):
   - Aluno: [Maurício da Silva Cunha Galvão](https://github.com/mgalvao6).
