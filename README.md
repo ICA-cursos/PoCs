@@ -11,6 +11,6 @@ BI Master:
 - [Otimização](otimização.md)
 
 VC Master:
-- [*Visão Computacional Clássica*](visao-classica.md)
+- [*Visão Computacional Clássica*](vc-visao-classica.md)
 - [*Machine Learning*](vc-machine-learning.md)
 - [*Deep Learning*](vc-deep-learning.md)
