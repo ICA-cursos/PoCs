@@ -1,4 +1,4 @@
-# *Visão Computacional Clássica*
+# *Machine Learning*
 
 #### Para acesso ao código ou resumo, basta clicar no título de cada item.
 
