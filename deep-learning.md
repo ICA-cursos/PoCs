@@ -237,3 +237,12 @@
  - [Análise de Perfil de Políticos Brasileiros](https://github.com/secretaria-ICA/AnaliseDePerfilDePoliticosBrasileiros):
     - Aluna: [Luiza Magalhães Henriques](https://github.com/luizahenriques/).
     - Orientador: [Felipe Borges](https://github.com/FelipeBorgesC).
+  
+- [Análise de radiografias utilizando Redes Neurais para auxílio no diagnóstico de pneumunia](https://github.com/Walner-DS/BIMaster_TCC):
+  - Aluno: [Walner de Assis Passos](https://github.com/Walner-DS).
+  - Orientadora: [Evelyn Batista](https://github.com/evysb).
+
+- [Chatbot de Orientação Tributária](https://github.com/Renato-Mendess/):
+  - Aluno: [Renato José Mendes de Almeida](https://github.com/Renato-Mendess/).
+  - Orientadora: [Evelyn Batista](https://github.com/evysb).
+ 
