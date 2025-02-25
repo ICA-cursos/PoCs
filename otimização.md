@@ -134,3 +134,19 @@
 - [Carteira de investimentos](https://github.com/secretaria-ICA/Carteira_de_investimentos):
   - Aluno: [Maria Elisa Guerisoli Puertas](https://github.com/elisapuertas).
   - Orientador: [Felipe Borges Coelho](https://github.com/FelipeBorgesC)
+
+- [Steam Screenshot Exporter](https://github.com/secretaria-ICA/Steam_Screenshot_Exporter):
+  - Aluno: [Murillo Dario Gomes Carvalho](https://github.com/Murillodgc).
+  - Orientador: [Felipe Borges Coelho](https://github.com/FelipeBorgesC)
+
+- [Otimização de compras de produtos da cesta básica nacional em mercados online](https://github.com/secretaria-ICA/otimizador-cesta-basica-ipca):
+  - Aluno: [Vinicius da Silva Faria](https://github.com/vinifariarj).
+  - Orientador: [Felipe Borges Coelho](https://github.com/FelipeBorgesC)
+
+- [Turismo Inteligente RJ: Uma Abordagem Integrada com RAG e Otimização de Planejamento](https://github.com/secretaria-ICA/Turismo_Inteligente):
+  - Aluno: [Cristiano Leonardo Conceição](https://github.com/cristianoconce).
+  - Orientadora: [Evelyn Conceição](https://github.com/evysb).
+
+- [Otimizador de Cronograma de Poços](https://github.com/secretaria-ICA/Otimizador_Cronograma_Pocos):
+  - Aluno: [Rômulo Luiz Pereira Ribeiro](https://github.com/bacabrother).
+  - Orientadora: [Ana Carolina Alves Abreu](https://github.com/acarolina1612).
