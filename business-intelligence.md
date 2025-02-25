@@ -110,4 +110,16 @@
 
 - [BI Seguradora](https://github.com/secretaria-ICA/BI-Seguradora):
   - Aluno: [Eduardo Marques da Costa](https://github.com/Eduardo-alunoBI).
-  - Orientador: [Anderson Nascimento](https://github.com/insightds). 
+  - Orientador: [Anderson Nascimento](https://github.com/insightds).
+
+- [Passis - Meu Assistente Pessoal](https://github.com/secretaria-ICA/Passis_Meu_Assistente_Pessoal):
+  - Aluno: [Otávio Ciribelli Borges](https://github.com/ciribelli).
+  - Orientador: [Anderson Nascimento](https://github.com/insightds).
+
+- [Criação de Dashboard para Acompanhamento do Planejamento Estratégico de Investimentos em uma Empresa do Ramo de Petróleo](https://github.com/secretaria-ICA/Dashboard_Investimento_Petroleo):
+  - Aluno: [Renata Huhn Nunes](https://github.com/renatahuhn).
+  - Orientador: [Anderson Nascimento](https://github.com/insightds).
+ 
+- [Produtos Ferrero - Analise de Desempenho](https://github.com/secretaria-ICA/Analise_de_Desempenho):
+  - Aluno: [Luana Martins Leitão](https://github.com/lumleitao).
+  - Orientador: [Anderson Nascimento](https://github.com/insightds).
