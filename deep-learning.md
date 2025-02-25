@@ -238,11 +238,29 @@
     - Aluna: [Luiza Magalhães Henriques](https://github.com/luizahenriques/).
     - Orientador: [Felipe Borges](https://github.com/FelipeBorgesC).
   
-- [Análise de radiografias utilizando Redes Neurais para auxílio no diagnóstico de pneumunia](https://github.com/Walner-DS/BIMaster_TCC):
+- [Análise de radiografias utilizando Redes Neurais para auxílio no diagnóstico de pneumunia](https://github.com/secretaria-ICA/Redes_Neurais_Radiografia_Pneumonia):
   - Aluno: [Walner de Assis Passos](https://github.com/Walner-DS).
   - Orientadora: [Evelyn Batista](https://github.com/evysb).
 
 - [Chatbot de Orientação Tributária](https://github.com/Renato-Mendess/):
   - Aluno: [Renato José Mendes de Almeida](https://github.com/Renato-Mendess/).
   - Orientadora: [Evelyn Batista](https://github.com/evysb).
- 
+
+- [MedFusion - Chatbot Inteligente](https://github.com/secretaria-ICA/Chatbot_Inteligente):
+  - Aluno: [Ana Paula Louvain Marinho Costa](https://github.com/analouvain).
+  - Orientadores: [Leonardo Mendoza](https://github.com/leofome8).
+  - Orientadores: [Evelyn Batista](https://github.com/evysb).
+
+- [B3 Fundamentus](https://github.com/secretaria-ICA/b3_fundamentus):
+  - Aluno: [Thiago Correia Umbelino](https://github.com/thiago-umbelino).
+  - Orientadora: [Evelyn Batista](https://github.com/evysb).
+
+- [Predição de diagnósticos de leucemias por meio da análise de lâminas de sangue periférico](https://github.com/secretaria-ICA/Predicao_Diagnosticos_Leucemia):
+  - Aluno: [Matheus Barbosa Gevaerd](https://github.com/matheusgevaerd).
+  - Orientadora: [Manoela kohler](https://github.com/manoelakohler).
+
+- [LabelArtPicies](https://github.com/secretaria-ICA/Label_Art_Picies):
+  - Aluno: [Claudia Vieira Magliano Ribeiro](https://github.com/cmagliano).
+  - Orientador: [Leonardo Mendoza](https://github.com/leofome8).
+
+
