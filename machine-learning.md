@@ -232,3 +232,11 @@
 - [Marketing Analytics](https://github.com/secretaria-ICA/Marketing-Analytics)
   - Aluno: [Manuel Calçada de Sousa](https://github.com/manuelcalcada).
   - Orientadores: [Manoela Kohler](https://github.com/manoelakohler).
+
+- [Compreensão do perfil de consumo através da análise de clusters aplicando K Means](https://github.com/secretaria-ICA/Pefil_Consumo_Analise_K_Means)
+  - Aluno: [Vinicius Gomes Novato](https://github.com/vininovato).
+  - Orientador: [Leonardo Forero Mendoza](https://github.com/leofome8).
+
+- [Detecção de Fraturas em Imagens de Raios-X Usando Aumento de Dados para Melhoria do Modelo](https://github.com/secretaria-ICA/Deteccao_Fraturas_Data_Augmentation)
+  - Aluno: [Ashley Vanessa Williams](https://github.com/leynessa).
+  - Orientador: [Leonardo Forero Mendoza](https://github.com/leofome8).
