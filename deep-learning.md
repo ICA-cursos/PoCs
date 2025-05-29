@@ -263,4 +263,14 @@
   - Aluno: [Claudia Vieira Magliano Ribeiro](https://github.com/cmagliano).
   - Orientador: [Leonardo Mendoza](https://github.com/leofome8).
 
+- [Agentes de IA - Desenvolvimento Próprio](https://github.com/secretaria-ICA/AI_Agents):
+  - Aluno: [Marcos de Mattos Amarante rodrigues](https://github.com/mmarodr).
+  - Orientador: [Leonardo Mendoza](https://github.com/leofome8).
 
+- [Desenvolvimento de Chatbot RAG para análise inteligente de informações patentárias utilizando LLM e LangChain.](https://github.com/secretaria-ICA/Chatbot_LLM_LangChain):
+  - Aluno: [Lívia Rubatino de Faria](https://github.com/Livia-Rubatino).
+  - Orientador: [Leonardo Mendoza](https://github.com/leofome8).
+ 
+- [Avaliação de desempenho de um sistema RAG para responder perguntas](https://github.com/secretaria-ICA/RAG_Perguntas):
+  - Aluno: [Alexandre Marques Koury Monteiro](https://github.com/alexandrekoury).
+  - Orientador: [Leonardo Mendoza](https://github.com/leofome8).
