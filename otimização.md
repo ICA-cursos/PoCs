@@ -150,3 +150,7 @@
 - [Otimizador de Cronograma de Poços](https://github.com/secretaria-ICA/Otimizador_Cronograma_Pocos):
   - Aluno: [Rômulo Luiz Pereira Ribeiro](https://github.com/bacabrother).
   - Orientadora: [Ana Carolina Alves Abreu](https://github.com/acarolina1612).
+
+- [Otimização da escala de funcionários em regime híbrido](https://github.com/secretaria-ICA/hybrid_work_distribution):
+  - Aluno: [Victor Moreira Araújo](https://github.com/victoraraujo01).
+  - Orientadora: [Ana Carolina Alves Abreu](https://github.com/acarolina1612).
